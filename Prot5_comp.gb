@@ -1,0 +1,88 @@
+LOCUS       YP_095213                155 aa            linear   CON 11-JAN-2017
+DEFINITION  6,7-dimethyl-8-ribityllumazine synthase [Legionella pneumophila
+            subsp. pneumophila str. Philadelphia 1].
+ACCESSION   YP_095213
+VERSION     YP_095213.1
+DBLINK      BioProject: PRJNA57609
+            Assembly: GCF_000008485.1
+DBSOURCE    REFSEQ: accession NC_002942.5
+KEYWORDS    RefSeq.
+SOURCE      Legionella pneumophila subsp. pneumophila str. Philadelphia 1
+  ORGANISM  Legionella pneumophila subsp. pneumophila str. Philadelphia 1
+            Bacteria; Proteobacteria; Gammaproteobacteria; Legionellales;
+            Legionellaceae; Legionella.
+REFERENCE   1  (residues 1 to 155)
+  AUTHORS   Chien,M., Morozova,I., Shi,S., Sheng,H., Chen,J., Gomez,S.M.,
+            Asamani,G., Hill,K., Nuara,J., Feder,M., Rineer,J., Greenberg,J.J.,
+            Steshenko,V., Park,S.H., Zhao,B., Teplitskaya,E., Edwards,J.R.,
+            Pampou,S., Georghiou,A., Chou,I.C., Iannuccilli,W., Ulz,M.E.,
+            Kim,D.H., Geringer-Sameth,A., Goldsberry,C., Morozov,P.,
+            Fischer,S.G., Segal,G., Qu,X., Rzhetsky,A., Zhang,P., Cayanis,E.,
+            De Jong,P.J., Ju,J., Kalachikov,S., Shuman,H.A. and Russo,J.J.
+  TITLE     The genomic sequence of the accidental pathogen Legionella
+            pneumophila
+  JOURNAL   Science 305 (5692), 1966-1968 (2004)
+   PUBMED   15448271
+REFERENCE   2  (residues 1 to 155)
+  AUTHORS   Chien,M., Morozova,I., Shi,S., Sheng,H., Chen,J., Gomez,S.M.,
+            Asamani,G., Hill,K., Nuara,J., Feder,M., Rineer,J., Greenberg,J.J.,
+            Steshenko,V., Park,S.H., Zhao,B., Teplitskaya,E., Edwards,J.R.,
+            Pampou,S., Georghiou,A., Chou,I.-C., Iannuccilli,W., Ulz,M.E.,
+            Kim,D.H., Geringer-Sameth,A., Goldsberry,C., Morozov,P.,
+            Fischer,S.G., Segal,G., Qu,X., Rzhetsky,A., Zhang,P., Cayanis,E.,
+            De Jong,P.J., Ju,J., Kalachikov,S., Shuman,H.A. and Russo,J.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-AUG-2004) Columbia Genome Center, Columbia
+            University, 1150 St. Nicholas Ave., New York, NY 10032, USA
+REFERENCE   3  (residues 1 to 155)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-APR-2002) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from AAU27266.
+            RefSeq Category: Reference Genome
+                        COM: Community Selected
+                        TYS: Designated Type Strain
+                        UPR: UniProt Genome
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..155
+                     /organism="Legionella pneumophila subsp. pneumophila str.
+                     Philadelphia 1"
+                     /strain="Philadelphia 1"
+                     /sub_species="pneumophila"
+                     /db_xref="taxon:272624"
+     Protein         1..155
+                     /product="6,7-dimethyl-8-ribityllumazine synthase"
+                     /EC_number="2.5.1.9"
+                     /function="Metabolism of Cofactors and Vitamins"
+                     /calculated_mol_wt=16755
+     Region          16..147
+                     /region_name="Lumazine_synthase-I"
+                     /note="lumazine synthase (6,7-dimethyl-8-ribityllumazine
+                     synthase, LS), catalyzes the penultimate step in the
+                     biosynthesis of riboflavin (vitamin B2); type-I; cd09209"
+                     /db_xref="CDD:187742"
+     Site            order(17,23,52..55,58..59,61..63,65..67,69,73,84,86..87,
+                     89,91..92,94..96,98..100,102..106,109..110,114,116,118,
+                     120,124,128,136,139,143,146..147)
+                     /site_type="other"
+                     /note="homopentamer interface [polypeptide binding]"
+                     /db_xref="CDD:187742"
+     Site            order(23..24,56..59,80..85,87,89..90,113..117,128,136,139)
+                     /site_type="active"
+                     /db_xref="CDD:187742"
+     CDS             1..155
+                     /gene="ribH"
+                     /locus_tag="lpg1180"
+                     /coded_by="NC_002942.5:1305872..1306339"
+                     /transl_table=11
+                     /db_xref="GeneID:19832745"
+CONTIG      join(WP_010946914.1:1..155)
+ORIGIN      
+        1 mreiktivsd gvtfpialvv stfnelitsa lkkgaldrlt elgfksedit lvevpgavei
+       61 pfvaqllakk qkvevivalg avirgetshy dyvcdqvsqg cqrvmldyni pvifgvltte
+      121 ndeqalarvg gthghkgrda idcavsmrsi kqqlq
+//
+

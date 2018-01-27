@@ -1,0 +1,80 @@
+LOCUS       YP_094970                328 aa            linear   CON 11-JAN-2017
+DEFINITION  riboflavin biosynthesis RibF [Legionella pneumophila subsp.
+            pneumophila str. Philadelphia 1].
+ACCESSION   YP_094970
+VERSION     YP_094970.1
+DBLINK      BioProject: PRJNA57609
+            Assembly: GCF_000008485.1
+DBSOURCE    REFSEQ: accession NC_002942.5
+KEYWORDS    RefSeq.
+SOURCE      Legionella pneumophila subsp. pneumophila str. Philadelphia 1
+  ORGANISM  Legionella pneumophila subsp. pneumophila str. Philadelphia 1
+            Bacteria; Proteobacteria; Gammaproteobacteria; Legionellales;
+            Legionellaceae; Legionella.
+REFERENCE   1  (residues 1 to 328)
+  AUTHORS   Chien,M., Morozova,I., Shi,S., Sheng,H., Chen,J., Gomez,S.M.,
+            Asamani,G., Hill,K., Nuara,J., Feder,M., Rineer,J., Greenberg,J.J.,
+            Steshenko,V., Park,S.H., Zhao,B., Teplitskaya,E., Edwards,J.R.,
+            Pampou,S., Georghiou,A., Chou,I.C., Iannuccilli,W., Ulz,M.E.,
+            Kim,D.H., Geringer-Sameth,A., Goldsberry,C., Morozov,P.,
+            Fischer,S.G., Segal,G., Qu,X., Rzhetsky,A., Zhang,P., Cayanis,E.,
+            De Jong,P.J., Ju,J., Kalachikov,S., Shuman,H.A. and Russo,J.J.
+  TITLE     The genomic sequence of the accidental pathogen Legionella
+            pneumophila
+  JOURNAL   Science 305 (5692), 1966-1968 (2004)
+   PUBMED   15448271
+REFERENCE   2  (residues 1 to 328)
+  AUTHORS   Chien,M., Morozova,I., Shi,S., Sheng,H., Chen,J., Gomez,S.M.,
+            Asamani,G., Hill,K., Nuara,J., Feder,M., Rineer,J., Greenberg,J.J.,
+            Steshenko,V., Park,S.H., Zhao,B., Teplitskaya,E., Edwards,J.R.,
+            Pampou,S., Georghiou,A., Chou,I.-C., Iannuccilli,W., Ulz,M.E.,
+            Kim,D.H., Geringer-Sameth,A., Goldsberry,C., Morozov,P.,
+            Fischer,S.G., Segal,G., Qu,X., Rzhetsky,A., Zhang,P., Cayanis,E.,
+            De Jong,P.J., Ju,J., Kalachikov,S., Shuman,H.A. and Russo,J.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-AUG-2004) Columbia Genome Center, Columbia
+            University, 1150 St. Nicholas Ave., New York, NY 10032, USA
+REFERENCE   3  (residues 1 to 328)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-APR-2002) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from AAU27023.
+            RefSeq Category: Reference Genome
+                        COM: Community Selected
+                        TYS: Designated Type Strain
+                        UPR: UniProt Genome
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..328
+                     /organism="Legionella pneumophila subsp. pneumophila str.
+                     Philadelphia 1"
+                     /strain="Philadelphia 1"
+                     /sub_species="pneumophila"
+                     /db_xref="taxon:272624"
+     Protein         1..328
+                     /product="riboflavin biosynthesis RibF"
+                     /function="Metabolism of Cofactors and Vitamins"
+                     /calculated_mol_wt=36825
+     Region          13..307
+                     /region_name="PRK05627"
+                     /note="bifunctional riboflavin kinase/FMN
+                     adenylyltransferase; Reviewed"
+                     /db_xref="CDD:235536"
+     CDS             1..328
+                     /gene="ribF"
+                     /locus_tag="lpg0936"
+                     /coded_by="NC_002942.5:1011773..1012759"
+                     /transl_table=11
+                     /db_xref="GeneID:19832502"
+CONTIG      join(WP_010946671.1:1..328)
+ORIGIN      
+        1 mkllrgsthf aifdkgavat ignfdgvhlg hqhliktlra kademnlplv illfepqpke
+       61 yfhrekapar lstlrekidv lnlcqvdyiy cikfdarlaq tpalyfaqfy lfealkiryl
+      121 lvgqdfrfgk sregdvnllk tlganyscev tvqsdflien ekisstrire alqqgnlrfa
+      181 akllgrpysm cgrvikgdgr grqwgiptan lgmhrlsipl qgvyavqvhi nsnvfygvan
+      241 igkrptvagt knilevhlfd fhgslygqlv qviflhklrd evkfssveal itqinsdiil
+      301 akaylkqnwl dsvidssndv anginntv
+//
+
