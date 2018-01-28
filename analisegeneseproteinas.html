@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="description" content="">
+	<meta name="author" content="">
+
+	<title>Legionella pneumophila </title>
+
+	<link href="./website/css/bootstrap.min.css" rel="stylesheet">
+	<link href="css/portfolio-item.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+	<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+		<div class="container">
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse" id="navbarResponsive">
+				<ul class="navbar-nav m-auto">
+					<li class="nav-item ">
+						<a class="nav-link" href="./index.html">Home &nbsp &nbsp &nbsp
+						</a>
+					</li>
+
+					<li class="nav-item active">
+						<a class="nav-link" href="./trabalhorealizado.html">Trabalho Realizado &nbsp &nbsp &nbsp</a>
+					</li>
+
+					<li class="nav-item active">
+						<a class="nav-link" href="./relatorio">Relatório &nbsp &nbsp &nbsp</a>
+					</li>
+
+					<li class="nav-item active">
+						<a class="nav-link" href="./tabela.html">Tabelas Resumo &nbsp &nbsp &nbsp</a>
+					</li>
+
+					<li class="nav-item active">
+						<a class="nav-link" href="./ferramentas.html">Ferramentas utilizadas &nbsp &nbsp &nbsp</a>
+					</li>
+
+					<li class="nav-item active">
+						<a class="nav-link" href="https://github.com/Hodor61/Laboratorios-de-Informatica/tree/master/scripts">Scripts &nbsp &nbsp &nbsp</a>
+					</li>
+
+				</ul>
+			</div>
+		</div>
+	</nav>
+
+	<br>
+	<br>
+	<br>
+
+	<h4> &nbsp Análise e anotação dos genes e proteínas de interesse  </h4>
+	<p>  &nbsp &nbsp De forma a proceder a anotação dos genes e proteínas de interesse realizou-se uma tabela com a seguinte informação: 
+		<ol>
+			<li>Identificação do gene: geneID; accession (NCBI); locus tag (NCBI); nome do gene (NCBI); strand (NCBI) </li>
+			<li>Identifcação da proteína: UniprotID; grau de revisão (Uniprot); accession number (Uniprot); protein name (Uniprot); número de aminoácidos (Uniprot); EC number (NCBI); descrição/função (NCBI); localização (Biocyc); gene ontology (Uniprot)</li>
+		</ol>
+
+		&nbsp &nbsp  Esta informação foi extraída das bases de dados com recurso a scripts Biopython e confirmada com a tabela disponibilizada no NCBI, mais especificamente no seguinte site:<br>&nbsp <a href="https://www.ncbi.nlm.nih.gov/genome/proteins/416?genome_assembly_id=300116"> &nbsp https://www.ncbi.nlm.nih.gov/genome/proteins/416?genome_assembly_id=300116</a><br>  
+	</p>
+	<p>
+		&nbsp &nbsp  Como auxilio para esta anotação, começou-se por verificar que proteínas estão relacionadas com a via metabólica, biossíntese de flavina. Desta forma, recorreu-se à plataforma Biocyc onde se verificou que existiam 5 proteínas principais de interesse.  
+
+		Também foi criado um script que permitisse aceder ao NCBI e extrair o genoma completo do organismo Legionella pneumophila subsp. pneumophila str. Philadelphia 1, guardando este num ficheiro do tipo genbank.   
+	</p>
+
+	<ul style="list-style-type:disc">
+		<li><h5> Gene ribD </h5>	
+			<p>
+				Este gene codifica a proteína riboflavin biosynthesis protein RibD.  
+
+				A Riboflavin biosynthesis protein RibD é uma enzima que entra na via metabólica da Flavina sendo responsável pela síntese da 5-amino-6-(D-ribitylamino)uracil a partir do GTP. Esta enzima tem como cofactor o ião zinco e apresenta diversos locais de ligação, quer ao substrato quer ao NADP. Dentro da via é responsável pela catálise das seguintes equações químicas: 
+
+				<center>2,5-diamino-6-hydroxy-4-(5-phosphoribosylamino)pyrimidine+H2O=5-amino-6-(5-phosphoribosylamino)uracil + NH3</center>
+				<br>
+				<center>5-amino-6-(5-phospho-D-ribitylamino)uracil+NADP+=5-amino-6-(5-phospho-D-ribosylamino)uracil + NADPH</center> 
+				<br>
+
+				A localização subcelular da proteína foi inferida com a consulta da plataforma LOCTREE, tendo-se chegado à conclusão que a localização é o citoplasma, obtendo-se esta informação com um score de 100, sendo por isso uma informação confiável.  
+			</p>
+		</li>
+
+		<li><h5> Gene ribE </h5>
+			<p>
+				Este gene codifica a proteína riboflavin synthase.  
+
+				A Riboflavin synthase é uma enzima que entra na via metabólica da Flavina e é responsável pela síntese de riboflavina e 5-amino-6-(D-ribitylamino)uracil a partir de duas moléculas de 6,7-dimethyl-8-ribityllumazine. Esta enzima é ativa por iões de sulfito e encontra-se no citosol da bactéria. Apresenta locais de ligação para a molécula de 6,7-dimethyl-8-ribityllumazine e a equação da catálise por si exercida é a seguinte: 
+
+				<center>6,7-dimethyl-8-(1-D-ribityl)lumazine = riboflavin+4-(1-D-ribitylamino)-5-amino-2,6-dihydroxypyrimidine</center>
+				<br>
+				A localização subcelular da proteína foi inferida com a consulta da plataforma LOCTREE, tendo-se chegado à conclusão que a localização é o citoplasma, obtendo-se esta informação com um score de 92, sendo por isso uma informação confiável.  
+			</p>
+		</li>
+
+		<li><h5>Gene ribA </h5>
+			<p>
+				Este gene codifica a proteína GTP cyclohydrolase-2.  
+
+				A GTP cyclohydrolase-2 é uma enzima que entra na via metabólica da síntese de Flavina entrando no primeiro passo da via e sendo responsável pela síntese  de 5-amino-6-(D-ribitylamino)uracil a partir do GTP. Apresenta como cofactor o ião zinco e apresenta diversos locais de ligação para este ião e para o GTP.  A equação química de degradação do GTP em que esta enzima está envolvida é a seguinte: 
+
+				<center>GTP+3H2O=formate+2,5-diamino-6-hydroxy-4-(5-phospho-D-ribosylamino)pyrimidine+diphosphate</center>
+				<br>
+
+				A localização subcelular da proteína foi inferida com a consulta da plataforma LOCTREE, tendo-se chegado à conclusão que a localização é o citoplasma, obtendo-se esta informação com um score de 92.<br>
+
+				A localização subcelular da proteína foi inferida com a consulta da plataforma LOCTREE, tendo-se chegado à conclusão que a localização é o citoplasma, obtendo-se esta informação com um score de 100, sendo por isso uma informação confiável.  
+			</p>
+		</li>
+
+		<li><h5>Gene ribH</h5>
+			<p>
+				Este gene codifica a proteína GTP cyclohydrolase-2.  
+
+				Este gene codifica a proteína GTP cyclohydrolase-2.  
+
+				A 6,7-dimethyl-8-ribityllumazine synthase é uma enzima da via metabólica da biossíntese da Flavina que é responsável pela catálise de 6,7-dimethyl-8-ribityllumazine através da condensação 5-amino-6-(D-ribitylamino)uracil com 3,4-dihydroxy-2-butanone 4-phosphate. Esta moléculas ligam-se á enzima através de locais de ligação específicos da mesmas. A equação química desta reação é dada através de: 
+
+				<center>deoxy-L-glycero-tetrulose 4-phosphate + 5-amino-6-(D-ribitylamino)uracil = 6,7-dimethyl-8-(D-ribityl)lumazine + 2 H2O + phosphate</center>
+				<br>
+
+				A localização subcelular da proteína foi inferida após consulta da plataforma LOCTREE, tendo-se chegado à conclusão que a localização é o citoplasma, contudo obteve-se esta informação com um score de apenas 10, sendo por isso uma informação pouco confiável.  
+			</p>
+		</li>
+
+		<li><h5>Gene ribF</h5>
+			<p>
+				Este gene codifica a proteína ribiflavin biosynthesis protein RibF.  
+
+				A Riboflavin biosynthesis protein RibF é uma enzima que entra na subvia da síntese do FAD a partir do FMN  sendo a responsável por esta conversão. De igual forma está também relacionada com a biossíntese do FMN a partir da riboflavina. Esta enzima tem locais de ligação para o ATP, FAD, Riboflavina e FMN. As equações de conversão de riboflafina em FMN e FMN em FAD são respetivamente as seguintes:
+
+				<center>	ATP + riboflavin = ADP + FMN  </center>
+				<br>
+				<center> ATP + FMN = diphosphate + FAD </center>
+				<br>
+
+				A localização subcelular da proteína foi inferida com a consulta da plataforma LOCTREE, tendo-se chegado à conclusão que a localização é o citoplasma, obtendo-se esta informação com um score de 97, sendo por isso uma informação confiável.  <br>
+			</p>
+		</li>
+
+	</ul>  
+</p>
