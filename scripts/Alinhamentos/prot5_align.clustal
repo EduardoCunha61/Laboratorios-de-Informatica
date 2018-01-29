@@ -1,0 +1,26 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Legionella_waltersii                       MNDIRTIVGTYTDPFSIAVVVSQFNEKITSALKNGAIERLIELGFSENDILLVEVPGAVE
+Legionella_shakespearei                    MKEIKANLSEFKHTFPIALVVSSFNEPITNALKEGALQRLAEHGFKPSEITLVEVPGAVE
+Legionella_pneumophila_Philadelphia_1      MREIKTIVS-DGVTFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVE
+Legionella_fallonii                        MKEIKAVVTESNNTFPIALVVSTFNRSITNALKEGALSRLAELGFNANDITLVEVPGAVE
+Legionella_quateirensis                    MKVIKAHCNEIKSPFPIAVVVSTFNEAITNALKTGALDRLAELGFKPTDITLVEVPGAVE
+Legionella_moravica                        MRLIKARCNEIKSSFPIAVVVSTFNDAITSALKTGALERLAELGFKETDITLVEVPGAVE
+                                           *. *::        * **:*** **  **.*** **:.** * **.  :* *********
+
+Legionella_waltersii                       IPYAAQLIAKKQQVEVIIALGAVIRGDTSHYDYVCDQVSQGCQRVMLDNHIPVIFGVLTT
+Legionella_shakespearei                    IPFAAQMLAKKNQVQCIIALGAVIRGDTTHYDYVCDQASQGCQRVMLDYNLPVVFGVLTT
+Legionella_pneumophila_Philadelphia_1      IPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTT
+Legionella_fallonii                        IPFVVQLLAKKGLVHSIIALGAVIRGETSHYDYVCEQVSQGCQRVMLDFNIPVIFGVLTT
+Legionella_quateirensis                    IPFVAQLLVKNKQVDAVIALGAVIRGETSHYDYVCEQVSQGCQRVMLDYDIPVIFGVLTT
+Legionella_moravica                        IPFVAQILAKNKQVDVVIALGAVIRGETSHYDYVCDQVSQGCQRVMLDHDIPVVFGVLTT
+                                           **:..*::.*:  *. ::********:*:******:*.********** .:**:******
+
+Legionella_waltersii                       DNEEQALERVGGSHGHKGRDAVDCAVAMHSIGKQL-
+Legionella_shakespearei                    ENEAQAWDRVGGNHGHKGKDAVDCALMMHMIGRQLQ
+Legionella_pneumophila_Philadelphia_1      ENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQLQ
+Legionella_fallonii                        EDEEQAWDRLGGKHGHKGRDMADCAVMMHSIQQQLR
+Legionella_quateirensis                    ENDEQAWDRLGGTHGHKGRDAADCAVEMYLISQQLR
+Legionella_moravica                        ENEEQAWERLGGHHGHKGRDAADCAVEMYLISQQLR
+                                           ::: **  *:** *****:*  ***: *  * :** 
