@@ -10,8 +10,7 @@
 
 	<title>Legionella pneumophila </title>
 
-	<link href="./website/css/bootstrap.min.css" rel="stylesheet">
-	<link href="css/portfolio-item.css" rel="stylesheet">
+	<link href="./website/css/bootstrap.css" rel="stylesheet">
 
 </head>
 
@@ -53,26 +52,66 @@
 			</div>
 		</div>
 	</nav>
+
 	<br>
 	<br>
 	<br>
 
-	<h4>Alinhamento Múltiplo e Filogenia</h4>
+	<center><h4>Alinhamento Múltiplo e Filogenia</h4></center>
 
-	<p>&nbsp O alinhamento múltiplo é importante pois permite analisar zonas de maior e menor conservação de forma a conseguir-se identificar domínios conservados. A filogenia é também de grande relevância uma vez que permite associar os diferentes organismos evolutivamente, ao analisar por exemplo a transferência horizontal de genes. A transferência horizontal de genes é o movimento de informação genética entre organismos que inclui a dispersão de resistência a antibióticos entre bactérias, contribuindo para a evolução evolutiva do patogénio.<br> 
-	&nbsp Primeiramente começou-se por realizar um Blast (no NCBI) para cada uma das 5 sequências proteicas. Após os resultados, para cada um dos casos selecionaram-se 5 estirpes diferentes sendo que foram escolhidas as 5 estirpes com maior ident (o mais próximo de 100% possível) e menor evalue (o mais próximo de 0 possível), tendo em conta também o query cover. De seguida, acedeu-se à plataforma Clustal Omega que permite realizar o alinhamento múltiplo das sequências. Desta forma, procedeu-se ao alinhamento múltiplo de 5 sequências de cada vez, obtendo-se os resultados dos alinhamentos em formato Clustal e a informação para posterior criação da árvore em formato Newick. Através de Bioptyhon, utilizou-se a função Philo.read() que permite ler o ficheiro em formato newick e, também, a Philo.draw_ascii() que permite desenhar a árvore.
+	<p>&nbsp &nbsp &nbsp O alinhamento múltiplo é importante pois permite analisar zonas de maior e menor conservação de forma a conseguir-se identificar domínios conservados. A filogenia é também de grande relevância uma vez que permite associar os diferentes organismos evolutivamente, ao analisar por exemplo a transferência horizontal de genes. A transferência horizontal de genes é o movimento de informação genética entre organismos que inclui a dispersão de resistência a antibióticos entre bactérias, contribuindo para a evolução evolutiva do patogénio.  
+	Primeiramente começou-se por realizar um Blast (no NCBI) para cada uma das 5 sequências proteicas. Após os resultados, para cada um dos casos selecionaram-se 5 estirpes diferentes sendo que foram escolhidas as 5 estirpes com maior ident (o mais próximo de 100% possível) e menor e-value (o mais próximo de 0 possível), tendo em conta também o query cover. De seguida, acedeu-se à plataforma Clustal Omega que permite realizar o alinhamento múltiplo das sequências. Desta forma, procedeu-se ao alinhamento múltiplo de 5 sequências de cada vez, obtendo-se os resultados dos alinhamentos em formato Clustal e a informação para posterior criação da árvore em formato Newick. Através de Bioptyhon, utilizou-se a função Philo.read() que permite ler o ficheiro em formato newick e, também, a Philo.draw_ascii() que permite desenhar a árvore.
 	</p>
 
-	<ol>
+	<ul style="list-style-type:disc"> 
 		<li> RibD - lpg1177</li>
+	</ul>
+		<center>
+ 		<img src="/website/img/lpg1177.png" alt="" >
+			<figcaption>Fig1. Árvore filogenética obtida através de BioPython </figcaption>
+		</center>
+	
+		<p>&nbsp &nbsp &nbsp Após análise destes resultados, podemos verificar que as proteínas em questão que apresentam uma maior semelhança evolutiva são aquelas pertencentes às estirpes Legionella sainthelensi, Legionella santicrucis e a Legionella longbeachae, pelo que se pode inferir que estas proteínas serão as mais semelhantes funcional e estruturalmente.  Quanto à proteína da Legionella pneumophila Philadelphia 1, esta tem mais semelhanças com a proteína da Legionela norrlandica. </p>
 
-		<h6> IMAGEM AQUI </h6>
+	<ul style="list-style-type:disc"> 
+		<li> RibE - lpg1178</li>
+	</ul>
 
-		<p>Após análise destes resultados, podemos verificar que as proteínas em questão que apresentam uma maior semelhança evolutiva são aquelas pertencentes às estirpes Legionella sainthelensi e Legionella santicrucis, pelo que se pode inferir que estas duas proteínas serão as mais semelhantes funcional e estruturalmente. 
-		Quanto à proteína da Legionella pneumophila, esta tem mais semelhanças com a proteína da Legionela norrlandica.</p>
+		<center>
+ 		<img src="/website/img/lpg1178.png" alt="" >
+			<figcaption>Fig2. Árvore filogenética obtida através de BioPython</figcaption>
+		</center>
 
-		<li> RibE – lpg1178 </li>
+		<p>&nbsp &nbsp &nbsp Na análise desta árvore filogenética podemos ver que existe uma grande proximidade entre a Legionella pneumophila subsp. Pneumophila e a Legionella pneumophila Philadelphia 1 isto pode ser explicado uma vez que são estirpes da mesma subespécie, sendo possível inferir que apresentam estrutural e funcionalmente bastante analogia.As restantes estão filogeneticamente mais afastadas, o que pode ser explicado por serem de espécies diferentes.</p>
 
-		<h6> IMAGEM AQUI </h6>
+	<ul style="list-style-type:disc"> 
+		<li> RibA - lpg1179</li>
+	</ul>
+		<center>
+ 		<img src="/website/img/lpg1179.png" alt="" >
+			<figcaption>Fig3. Árvore filogenética obtida através de BioPython</figcaption>
+		</center>
 
-		
+		<p>&nbsp &nbsp &nbsp Após a análise desta árvore filogenética, podemos concluir que as proteínas das estirpes Legionella quateirensise Legionella steigerwaltii são as mais semelhantes, pelo que serão as mais parecidas funcional e estruturalmente. Quanto à proteína da Legionella pneumophila Philadelphia 1, esta tem mais semelhanças com a proteína de estirpe Legionella cherrii.</p>
+
+
+	<ul style="list-style-type:disc"> 
+		<li> RibH - lpg1180</li>
+	</ul>
+
+		<center>
+ 		<img src="/website/img/lpg1180.png" alt="" >
+			<figcaption>Fig4. Árvore filogenética obtida através de BioPython</figcaption>
+		</center>
+
+		<p>&nbsp &nbsp &nbsp Após a análise desta árvore filogenética podemos ver que as espécies que apresentam maior semelhança entre si são a Legionella quateirensis e a Legionella moravica, quanto à Legionella pneumophila Philadelphia 1 apresenta maior analogia com a Legionella waltersii, sendo possível concluir que apresenta maior semelhança com esta espécie, a nível estrutural e funcional, havendo por isso maior conservação dos domínios. </p>
+
+	<ul style="list-style-type:disc"> 
+		<li> RibF - lpg0936</li>
+	</ul>
+		<center>
+ 		<img src="/website/img/lpg0936.png" alt="" >
+			<figcaption>Fig5. Árvore filogenética obtida através de BioPython</figcaption>
+		</center>
+
+		<p>&nbsp &nbsp &nbsp Após a análise desta árvore filogenética podemos concluir que as proteínas da Legionella pneumophila Philadelphia Ie a Legionella norrlandica. Desta forma estas espécies serão as mais semelhantes estrutural e funcionalmente entre si para esta proteína. </p>
