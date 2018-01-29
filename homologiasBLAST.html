@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="description" content="">
+	<meta name="author" content="">
+
+	<title>Legionella pneumophila </title>
+
+	<link href="./website/css/bootstrap.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+	<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+		<div class="container">
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse" id="navbarResponsive">
+				<ul class="navbar-nav m-auto">
+					<li class="nav-item ">
+						<a class="nav-link" href="./index.html">Home &nbsp &nbsp &nbsp
+						</a>
+					</li>
+
+					<li class="nav-item active">
+						<a class="nav-link" href="./Introducao.html">Introdução &nbsp &nbsp &nbsp</a>
+					</li>
+
+					<li class="nav-item active">
+						<a class="nav-link" href="./trabalhorealizado.html">Trabalho Realizado &nbsp &nbsp &nbsp</a>
+					</li>
+
+					<li class="nav-item active">
+						<a class="nav-link" href="./relatorio">Relatório &nbsp &nbsp &nbsp</a>
+					</li>
+
+					<li class="nav-item active">
+						<a class="nav-link" href="./tabela.html">Tabelas Resumo &nbsp &nbsp &nbsp</a>
+					</li>
+					
+					<li class="nav-item active">
+						<a class="nav-link" href="https://github.com/Hodor61/Laboratorios-de-Informatica/tree/master/scripts">Scripts &nbsp &nbsp &nbsp</a>
+					</li>
+
+				</ul>
+			</div>
+		</div>
+	</nav>
+
+	<br>
+	<br>
+	<br>
+
+	<center><h3>Análise de homologias por BLAST</h3></center>
+	<p> &nbsp &nbsp &nbsp Neste ponto, o objetivo era automatizar o processo de análise do Blast das proteínas, recorrendo à ferramenta Blast presente no package Biopython. Esta ferramenta permitiu obter os resultados deste processo em formatos XML e texto. Uma homologia realmente sólida requer especial atenção ao comportamento de três fatores aquando a seleção de alinhamentos: o e-value, o query cover e o ident. O e-value deverá ser o mais próximo possível de zero, enquanto que ambos o query cover e o ident deverão tender para 100%. Uma análise do ficheiro resultado do Blast, em XML, permite, entre outros, selecionar os alinhamentos com um menor e-value de uma forma automatizada. Contudo, não é possível fazer o mesmo com o ficheiro de texto usando python, apesar de conter os valores e-valuee ident de cada alinhamento. Estas restrições não permitem automatizar uma análise dos resultados do Blast usando os três parâmetros necessários para uma homologia sólida.<br>
+	&nbsp &nbsp &nbsp Assim, só foi considerado o ficheiro XML, que contém apenas o e-value dos alinhamentos, para fazer a análise com recurso ao Biopython. Os alinhamentos com um e-value menor que 0,01 foram retirados de cada ficheiro resultado em XML,guardando a sequência alinhada, o score e o e-value num outro ficheiro. Uma análise manual deste ficheiro com os alinhamentos retirou os cinco resultados com o menor e-value que correspondessem a espécies de Legionella diferentes da estudada. Contudo, como o grau de confiança nesta análise é baixo, pois só teve em consideração os valores de e-value, estes resultados foram comparados com os resultados do Blast usando o site do NCBI, sendo que só se detetou uma pequena diferença nos resultados da proteína codificada pelo gene RibE. Por fim, através de pesquisas no site da Uniprot foram retiradas as funções das proteínas selecionadas anteriormente, de forma a comparar a sua função com a das proteínas estudadas. Uma vez que as sequências têm uma grande homologia, é expectável que as suas funções sejam iguais ou bastante semelhantes. </p>
+
+	<ul style="list-style-type:disc">
+		<li><h5> Gene ribF </h5></li>	
+	</ul>
+
+	<p>A proteína codificada por este gene é a riboflavin biosynthesis RibF, cujas funções são atividade catalítica, biossíntese de FAD e biossíntese de FMN. As proteínas e respetivos organismos com a maior homologia com a proteína em estudo foram ordenadas por ordem decrescente:
+	
+	<ol>
+	<li>bifunctional riboflavin kinase/FAD synthetase da Legionella norrlandica, cujas funções são atividade catalítica, biossíntese de FAD e biossíntese de FMN;</li>
+	<li>bifunctional riboflavin kinase/FAD synthetase da Legionella shakespearei, cujas funções são atividade catalítica, biossíntese de FAD e biossíntese de FMN;</li>
+	<li>bifunctional riboflavin kinase/FAD synthetase da Legionella anisa, cujas funções são atividade catalítica, biossíntese de FAD e biossíntese de FMN;</li>
+	<li>bifunctional riboflavin kinase/FAD synthetase da Legionella drancourtii, cujas funções não se encontram descritas na Uniprot;</li>
+	<li>bifunctional riboflavin kinase/FAD synthetase da Legionella fallonii, cujas funções são atividade catalítica, biossíntese de FAD e biossíntese de FMN</li>
+	</ol>
+	</p>
+
+
+	<ul style="list-style-type:disc">
+		<li><h5> Gene ribD </h5></li>	
+	</ul>
+
+	<p>A proteína codificada por este gene é a riboflavin biosynthesis protein RibD, cujas funções são ser cofator e a biossíntese da riboflavina. As proteínas e respetivos organismos com a maior homologia com a proteína em estudo foram ordenadas por ordem decrescente:
+
+	<ol>
+	<li>bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino) uracil reductase RibD da Legionella norrlandica, cujas funções são ser cofator e a biossíntese da riboflavina;</li>
+	<li>bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino) uracil reductase RibD da Legionella sainthelensi, cujas funções não se encontram descritas na Uniprot;</li>
+	<li>bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino) uracil reductase RibD da Legionella gratiana, cujas funções são ser cofator e a biossíntese da riboflavina; </li>
+	<li>bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino) uracil reductase RibD da Legionella santicrucis, cujas funções são ser cofator e a biossíntese da riboflavina; </li>
+	<li>bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino) uracil reductase RibD da Legionella longbeachae, cujas funções são ser cofator e a biossíntese da riboflavina.</li>
+	</ol>
+	</p>
+
+
+	<ul style="list-style-type:disc">
+		<li><h5> Gene ribE </h5></li>	
+	</ul>
+
+	<p>A proteína codificada por este gene é a riboflavin synthase subunit alfa, cuja função é a síntese de riboflavina. As proteínas e respetivos organismos com a maior homologia com a proteína em estudo foram ordenadas por ordem decrescente:
+
+	<ol>
+	<li>riboflavin synthase da Legionella norrlandica, cujas funções não se encontram descritas na Uniprot;</li>
+	<li>riboflavin synthase da Legionella moravica, cuja função é a síntese de riboflavina;</li>
+	<li>riboflavin synthase da Legionella waltersii, cuja função é a síntese de riboflavina;</li>
+	<li>riboflavin synthase da Legionella worsleiensis, cuja função é a síntese de riboflavina;</li>
+	<li>riboflavin synthase da Legionella shakespearei, cujas funções não se encontram descritas na Uniprot.</li>
+	</ol>
+	</p>
+
+
+	<ul style="list-style-type:disc">
+		<li><h5> Gene ribA </h5></li>	
+	</ul>
+
+	<p>A proteína codificada por este gene é a riboflavin biosynthesis protein RibA, cujas funções são atividade catalítica, ser cofator e biossíntese de riboflavina. As proteínas e respetivos organismos com a maior homologia com a proteína em estudo foram ordenadas por ordem decrescente:
+
+	<ol>
+	<li>bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II da Legionella fallonii, cujas funções são atividade catalítica, ser cofator e biossíntese de riboflavina;</li>
+	<li>bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II da Legionella quateirensis, cujas funções são atividade catalítica, ser cofator e biossíntese de riboflavina;</li>
+	<li>bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II daLegionella steigerwaltii, cujas funções são atividade catalítica, ser cofator e biossíntese de riboflavina;</li>
+	<li>bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II daLegionella moravica, cujas funções são atividade catalítica, ser cofator e biossíntese de riboflavina; </li>
+	<li>bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II da Legionella cherrii, cujas funções não se encontram descritas na Uniprot.</li>
+	</ol>
+	</p>
+
+	<ul style="list-style-type:disc">
+		<li><h5> Gene ribH </h5></li>	
+	</ul>
+
+	<p>A proteína codificada por este gene é a 6,7-dimethyl-8-ribityllumazine synthase, cujas funções são atividade catalítica e biossíntese de riboflavina. As proteínas e respetivos organismos com a maior homologia com a proteína em estudo foram ordenadas por ordem decrescente: 
+
+	<ol>
+	<li>6,7-dimethyl-8-ribityllumazine synthase da Legionella fallonii, cujas funções são atividade catalítica e biossíntese de riboflavina;</li>
+	<li>6,7-dimethyl-8-ribityllumazine synthase da Legionella quateirensis, cujas funções são atividade catalítica e biossíntese de riboflavina; </li>
+	<li>6,7-dimethyl-8-ribityllumazine synthase da Legionella moravica, cujas funções são atividade catalítica e biossíntese de riboflavina;</li>
+	<li>6,7-dimethyl-8-ribityllumazine synthase da Legionella waltersii, cujas funções são atividade catalítica e biossíntese de riboflavina;</li>
+	<li>6,7-dimethyl-8-ribityllumazine synthase da Legionella shakespearei, cujas funções não se encontram descritas na Uniprot.</li>
+	</ol>
+	</p>
