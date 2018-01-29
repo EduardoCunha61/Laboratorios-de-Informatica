@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="description" content="">
+	<meta name="author" content="">
+
+	<title>Legionella pneumophila </title>
+
+	<link href="./website/css/bootstrap.min.css" rel="stylesheet">
+	<link href="css/portfolio-item.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+	<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+		<div class="container">
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse" id="navbarResponsive">
+				<ul class="navbar-nav m-auto">
+					<li class="nav-item ">
+						<a class="nav-link" href="./index.html">Home &nbsp &nbsp &nbsp
+						</a>
+					</li>
+
+					<li class="nav-item active">
+						<a class="nav-link" href="./Introducao.html">Introdução &nbsp &nbsp &nbsp</a>
+					</li>
+
+					<li class="nav-item active">
+						<a class="nav-link" href="./trabalhorealizado.html">Trabalho Realizado &nbsp &nbsp &nbsp</a>
+					</li>
+
+					<li class="nav-item active">
+						<a class="nav-link" href="./relatorio">Relatório &nbsp &nbsp &nbsp</a>
+					</li>
+
+					<li class="nav-item active">
+						<a class="nav-link" href="./tabela.html">Tabelas Resumo &nbsp &nbsp &nbsp</a>
+					</li>
+					
+					<li class="nav-item active">
+						<a class="nav-link" href="https://github.com/Hodor61/Laboratorios-de-Informatica/tree/master/scripts">Scripts &nbsp &nbsp &nbsp</a>
+					</li>
+
+				</ul>
+			</div>
+		</div>
+	</nav>
+	<br>
+	<br>
+	<br>
+
+	<h4>Alinhamento Múltiplo e Filogenia</h4>
+
+	<p>&nbsp O alinhamento múltiplo é importante pois permite analisar zonas de maior e menor conservação de forma a conseguir-se identificar domínios conservados. A filogenia é também de grande relevância uma vez que permite associar os diferentes organismos evolutivamente, ao analisar por exemplo a transferência horizontal de genes. A transferência horizontal de genes é o movimento de informação genética entre organismos que inclui a dispersão de resistência a antibióticos entre bactérias, contribuindo para a evolução evolutiva do patogénio.<br> 
+	&nbsp Primeiramente começou-se por realizar um Blast (no NCBI) para cada uma das 5 sequências proteicas. Após os resultados, para cada um dos casos selecionaram-se 5 estirpes diferentes sendo que foram escolhidas as 5 estirpes com maior ident (o mais próximo de 100% possível) e menor evalue (o mais próximo de 0 possível), tendo em conta também o query cover. De seguida, acedeu-se à plataforma Clustal Omega que permite realizar o alinhamento múltiplo das sequências. Desta forma, procedeu-se ao alinhamento múltiplo de 5 sequências de cada vez, obtendo-se os resultados dos alinhamentos em formato Clustal e a informação para posterior criação da árvore em formato Newick. Através de Bioptyhon, utilizou-se a função Philo.read() que permite ler o ficheiro em formato newick e, também, a Philo.draw_ascii() que permite desenhar a árvore.
+	</p>
+
+	<ol>
+		<li> RibD - lpg1177</li>
+
+		<h6> IMAGEM AQUI </h6>
+
+		<p>Após análise destes resultados, podemos verificar que as proteínas em questão que apresentam uma maior semelhança evolutiva são aquelas pertencentes às estirpes Legionella sainthelensi e Legionella santicrucis, pelo que se pode inferir que estas duas proteínas serão as mais semelhantes funcional e estruturalmente. 
+		Quanto à proteína da Legionella pneumophila, esta tem mais semelhanças com a proteína da Legionela norrlandica.</p>
+
+		<li> RibE – lpg1178 </li>
+
+		<h6> IMAGEM AQUI </h6>
+
+		
