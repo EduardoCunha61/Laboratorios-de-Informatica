@@ -1,0 +1,200 @@
+***Alignment*** 
+Sequence:gi|499249371|ref|WP_010946911.1| bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Legionella pneumophila] >gi|52841411|ref|YP_095210.1| riboflavin biosynthesis protein RibD [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]
+ e-value:0.0
+ Score:1931.0
+***Alignment*** 
+Sequence:gi|1003958938|ref|WP_061475269.1| bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Legionella pneumophila]
+ e-value:0.0
+ Score:1927.0
+***Alignment*** 
+Sequence:gi|504654311|ref|WP_014841413.1| bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Legionella pneumophila]
+ e-value:0.0
+ Score:1926.0
+***Alignment*** 
+Sequence:gi|653014935|ref|WP_027266965.1| bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Legionella pneumophila]
+ e-value:0.0
+ Score:1925.0
+***Alignment*** 
+Sequence:gi|652967833|ref|WP_027220755.1| bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Legionella pneumophila]
+ e-value:0.0
+ Score:1923.0
+***Alignment*** 
+Sequence:gi|652971268|ref|WP_027224128.1| bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Legionella pneumophila]
+ e-value:0.0
+ Score:1922.0
+***Alignment*** 
+Sequence:gi|1004334651|ref|WP_061513576.1| bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Legionella pneumophila]
+ e-value:0.0
+ Score:1920.0
+***Alignment*** 
+Sequence:gi|1006037280|ref|WP_061721329.1| bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Legionella pneumophila]
+ e-value:0.0
+ Score:1919.0
+***Alignment*** 
+Sequence:gi|1015945433|ref|WP_062896155.1| bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Legionella pneumophila]
+ e-value:0.0
+ Score:1918.0
+***Alignment*** 
+Sequence:gi|742354615|ref|WP_038838075.1| bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Legionella pneumophila]
+ e-value:0.0
+ Score:1915.0
+***Alignment*** 
+Sequence:gi|499534051|ref|WP_011215280.1| bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Legionella pneumophila]
+ e-value:0.0
+ Score:1912.0
+***Alignment*** 
+Sequence:gi|653013687|ref|WP_027265744.1| bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Legionella pneumophila]
+ e-value:0.0
+ Score:1910.0
+***Alignment*** 
+Sequence:gi|499526894|ref|WP_011213534.1| bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Legionella pneumophila]
+ e-value:0.0
+ Score:1905.0
+***Alignment*** 
+Sequence:gi|1004013196|ref|WP_061483197.1| bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Legionella pneumophila]
+ e-value:0.0
+ Score:1900.0
+***Alignment*** 
+Sequence:gi|1006645874|ref|WP_061819343.1| bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Legionella pneumophila]
+ e-value:0.0
+ Score:1898.0
+***Alignment*** 
+Sequence:gi|500492065|ref|WP_011946290.1| bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Legionella pneumophila]
+ e-value:0.0
+ Score:1897.0
+***Alignment*** 
+Sequence:gi|749506870|ref|WP_040147436.1| bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Legionella pneumophila]
+ e-value:0.0
+ Score:1889.0
+***Alignment*** 
+Sequence:gi|1011914359|ref|WP_062727573.1| bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Legionella pneumophila]
+ e-value:0.0
+ Score:1865.0
+***Alignment*** 
+Sequence:gi|654928005|ref|WP_028378487.1| bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Legionella pneumophila]
+ e-value:0.0
+ Score:1841.0
+***Alignment*** 
+Sequence:gi|654928926|ref|WP_028379345.1| bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Legionella pneumophila]
+ e-value:0.0
+ Score:1836.0
+***Alignment*** 
+Sequence:gi|652975047|ref|WP_027227757.1| bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Legionella pneumophila]
+ e-value:0.0
+ Score:1836.0
+***Alignment*** 
+Sequence:gi|652968524|ref|WP_027221418.1| bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Legionella pneumophila]
+ e-value:0.0
+ Score:1801.0
+***Alignment*** 
+Sequence:gi|737923386|ref|WP_035888667.1| bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Legionella norrlandica]
+ e-value:0.0
+ Score:1637.0
+***Alignment*** 
+Sequence:gi|1326064973|ref|WP_101899890.1| bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Legionella sainthelensi]
+ e-value:0.0
+ Score:1442.0
+***Alignment*** 
+Sequence:gi|966467462|ref|WP_058498788.1| bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Legionella gratiana]
+ e-value:0.0
+ Score:1441.0
+***Alignment*** 
+Sequence:gi|653019611|ref|WP_027271559.1| bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Legionella sainthelensi]
+ e-value:0.0
+ Score:1440.0
+***Alignment*** 
+Sequence:gi|966498229|ref|WP_058514995.1| bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Legionella santicrucis]
+ e-value:0.0
+ Score:1438.0
+***Alignment*** 
+Sequence:gi|966425282|ref|WP_058467820.1| bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Fluoribacter gormanii]
+ e-value:0.0
+ Score:1434.0
+***Alignment*** 
+Sequence:gi|489728180|ref|WP_003632296.1| bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Legionella longbeachae]
+ e-value:0.0
+ Score:1433.0
+***Alignment*** 
+Sequence:gi|966435287|ref|WP_058475667.1| bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Legionella steigerwaltii]
+ e-value:0.0
+ Score:1426.0
+***Alignment*** 
+Sequence:gi|966415805|ref|WP_058459090.1| bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Fluoribacter bozemanae]
+ e-value:0.0
+ Score:1425.0
+***Alignment*** 
+Sequence:gi|769979211|ref|WP_045095196.1| bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Legionella fallonii]
+ e-value:0.0
+ Score:1420.0
+***Alignment*** 
+Sequence:gi|498339140|ref|WP_010653296.1| bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Fluoribacter dumoffii]
+ e-value:0.0
+ Score:1412.0
+***Alignment*** 
+Sequence:gi|966502084|ref|WP_058518757.1| bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Legionella parisiensis]
+ e-value:0.0
+ Score:1405.0
+***Alignment*** 
+Sequence:gi|518065234|ref|WP_019235442.1| bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Legionella anisa]
+ e-value:0.0
+ Score:1404.0
+***Alignment*** 
+Sequence:gi|654931663|ref|WP_028382026.1| bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Legionella cherrii]
+ e-value:0.0
+ Score:1402.0
+***Alignment*** 
+Sequence:gi|966422395|ref|WP_058465596.1| bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Legionella cincinnatiensis]
+ e-value:0.0
+ Score:1396.0
+***Alignment*** 
+Sequence:gi|966495472|ref|WP_058512260.1| bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Legionella steelei]
+ e-value:0.0
+ Score:1393.0
+***Alignment*** 
+Sequence:gi|966440855|ref|WP_058481178.1| bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Legionella waltersii]
+ e-value:0.0
+ Score:1385.0
+***Alignment*** 
+Sequence:gi|493925478|ref|WP_006870289.1| bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Legionella drancourtii]
+ e-value:0.0
+ Score:1384.0
+***Alignment*** 
+Sequence:gi|966504042|ref|WP_058520701.1| bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Legionella tucsonensis]
+ e-value:0.0
+ Score:1382.0
+***Alignment*** 
+Sequence:gi|966434926|ref|WP_058475357.1| bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Legionella quateirensis]
+ e-value:0.0
+ Score:1381.0
+***Alignment*** 
+Sequence:gi|671592179|ref|WP_031567539.1| bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Legionella wadsworthii]
+ e-value:0.0
+ Score:1378.0
+***Alignment*** 
+Sequence:gi|654934713|ref|WP_028385028.1| bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Legionella moravica]
+ e-value:0.0
+ Score:1376.0
+***Alignment*** 
+Sequence:gi|517404238|ref|WP_018577031.1| bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Legionella shakespearei]
+ e-value:0.0
+ Score:1349.0
+***Alignment*** 
+Sequence:gi|966518272|ref|WP_058534766.1| bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Legionella saoudiensis]
+ e-value:0.0
+ Score:1343.0
+***Alignment*** 
+Sequence:gi|966461352|ref|WP_058493705.1| bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Legionella worsleiensis]
+ e-value:1.53909e-179
+ Score:1315.0
+***Alignment*** 
+Sequence:gi|644964864|ref|WP_025385619.1| bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Legionella oakridgensis]
+ e-value:2.61765e-156
+ Score:1161.0
+***Alignment*** 
+Sequence:gi|966471173|ref|WP_058502088.1| bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Legionella israelensis]
+ e-value:3.27728e-156
+ Score:1160.0
+***Alignment*** 
+Sequence:gi|966473331|ref|WP_058504092.1| bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Legionella nautarum]
+ e-value:1.40508e-152
+ Score:1136.0

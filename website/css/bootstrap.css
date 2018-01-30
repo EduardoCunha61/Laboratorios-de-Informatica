@@ -204,6 +204,12 @@ figure {
   margin: 0 0 1rem;
 }
 
+#cssTable td 
+{
+    text-align:center; 
+    vertical-align:middle;
+}
+
 img {
   vertical-align: middle;
   border-style: none;

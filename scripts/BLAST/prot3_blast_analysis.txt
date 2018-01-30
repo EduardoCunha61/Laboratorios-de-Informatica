@@ -1,0 +1,200 @@
+***Alignment*** 
+Sequence:gi|499249372|ref|WP_010946912.1| riboflavin synthase [Legionella pneumophila] >gi|52841412|ref|YP_095211.1| riboflavin synthase subunit alpha [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]
+ e-value:1.03624e-147
+ Score:1071.0
+***Alignment*** 
+Sequence:gi|653014936|ref|WP_027266966.1| riboflavin synthase [Legionella pneumophila]
+ e-value:2.36824e-145
+ Score:1056.0
+***Alignment*** 
+Sequence:gi|653016170|ref|WP_027268193.1| riboflavin synthase [Legionella pneumophila]
+ e-value:2.4745e-145
+ Score:1056.0
+***Alignment*** 
+Sequence:gi|653013686|ref|WP_027265743.1| riboflavin synthase [Legionella pneumophila]
+ e-value:4.37816e-145
+ Score:1054.0
+***Alignment*** 
+Sequence:gi|652976753|ref|WP_027229377.1| riboflavin synthase [Legionella pneumophila]
+ e-value:8.64465e-145
+ Score:1052.0
+***Alignment*** 
+Sequence:gi|742354618|ref|WP_038838076.1| riboflavin synthase [Legionella pneumophila]
+ e-value:1.21472e-144
+ Score:1051.0
+***Alignment*** 
+Sequence:gi|499534052|ref|WP_011215281.1| riboflavin synthase [Legionella pneumophila]
+ e-value:2.4249e-144
+ Score:1049.0
+***Alignment*** 
+Sequence:gi|652967832|ref|WP_027220754.1| riboflavin synthase [Legionella pneumophila]
+ e-value:3.05328e-144
+ Score:1049.0
+***Alignment*** 
+Sequence:gi|752488026|ref|WP_041174046.1| riboflavin synthase [Legionella pneumophila]
+ e-value:3.26106e-144
+ Score:1048.0
+***Alignment*** 
+Sequence:gi|1005410393|ref|WP_061639645.1| riboflavin synthase [Legionella pneumophila]
+ e-value:3.48298e-144
+ Score:1048.0
+***Alignment*** 
+Sequence:gi|499526895|ref|WP_011213535.1| riboflavin synthase [Legionella pneumophila]
+ e-value:5.28486e-144
+ Score:1047.0
+***Alignment*** 
+Sequence:gi|1004334652|ref|WP_061513577.1| riboflavin synthase [Legionella pneumophila]
+ e-value:8.28728e-144
+ Score:1046.0
+***Alignment*** 
+Sequence:gi|652971267|ref|WP_027224127.1| riboflavin synthase [Legionella pneumophila]
+ e-value:9.45356e-144
+ Score:1045.0
+***Alignment*** 
+Sequence:gi|1003964451|ref|WP_061476993.1| riboflavin synthase [Legionella pneumophila]
+ e-value:2.20051e-143
+ Score:1043.0
+***Alignment*** 
+Sequence:gi|500492067|ref|WP_011946291.1| riboflavin synthase [Legionella pneumophila]
+ e-value:2.25641e-141
+ Score:1030.0
+***Alignment*** 
+Sequence:gi|652968525|ref|WP_027221419.1| riboflavin synthase [Legionella pneumophila]
+ e-value:1.23595e-131
+ Score:966.0
+***Alignment*** 
+Sequence:gi|1011914360|ref|WP_062727574.1| riboflavin synthase [Legionella pneumophila]
+ e-value:5.14394e-131
+ Score:962.0
+***Alignment*** 
+Sequence:gi|652975048|ref|WP_027227758.1| riboflavin synthase [Legionella pneumophila]
+ e-value:1.38049e-130
+ Score:959.0
+***Alignment*** 
+Sequence:gi|654928004|ref|WP_028378486.1| riboflavin synthase [Legionella pneumophila]
+ e-value:4.00372e-129
+ Score:950.0
+***Alignment*** 
+Sequence:gi|737923384|ref|WP_035888665.1| riboflavin synthase [Legionella norrlandica]
+ e-value:7.08342e-110
+ Score:823.0
+***Alignment*** 
+Sequence:gi|654934714|ref|WP_028385029.1| riboflavin synthase [Legionella moravica]
+ e-value:9.44789e-98
+ Score:744.0
+***Alignment*** 
+Sequence:gi|966440854|ref|WP_058481177.1| riboflavin synthase [Legionella waltersii]
+ e-value:7.30172e-92
+ Score:705.0
+***Alignment*** 
+Sequence:gi|966461351|ref|WP_058493704.1| riboflavin synthase [Legionella worsleiensis]
+ e-value:1.52061e-91
+ Score:703.0
+***Alignment*** 
+Sequence:gi|517404237|ref|WP_018577030.1| riboflavin synthase [Legionella shakespearei]
+ e-value:2.08174e-90
+ Score:695.0
+***Alignment*** 
+Sequence:gi|653020565|ref|WP_027272470.1| riboflavin synthase [Legionella sainthelensi]
+ e-value:2.02168e-88
+ Score:682.0
+***Alignment*** 
+Sequence:gi|966466902|ref|WP_058498228.1| riboflavin synthase [Legionella gratiana]
+ e-value:4.57132e-88
+ Score:679.0
+***Alignment*** 
+Sequence:gi|966420849|ref|WP_058464050.1| riboflavin synthase [Legionella cincinnatiensis]
+ e-value:5.35554e-88
+ Score:679.0
+***Alignment*** 
+Sequence:gi|966434925|ref|WP_058475356.1| riboflavin synthase [Legionella quateirensis]
+ e-value:9.77814e-88
+ Score:678.0
+***Alignment*** 
+Sequence:gi|769979212|ref|WP_045095197.1| riboflavin synthase [Legionella fallonii]
+ e-value:3.01905e-87
+ Score:675.0
+***Alignment*** 
+Sequence:gi|1326064334|ref|WP_101899251.1| riboflavin synthase [Legionella sainthelensi]
+ e-value:4.05708e-87
+ Score:674.0
+***Alignment*** 
+Sequence:gi|966497830|ref|WP_058514596.1| riboflavin synthase [Legionella santicrucis]
+ e-value:1.91944e-86
+ Score:669.0
+***Alignment*** 
+Sequence:gi|966504894|ref|WP_058521553.1| riboflavin synthase [Legionella tucsonensis]
+ e-value:2.81536e-86
+ Score:668.0
+***Alignment*** 
+Sequence:gi|966499874|ref|WP_058516547.1| riboflavin synthase [Legionella parisiensis]
+ e-value:5.92566e-86
+ Score:666.0
+***Alignment*** 
+Sequence:gi|502743770|ref|WP_012978754.1| riboflavin synthase [Legionella longbeachae]
+ e-value:6.61098e-86
+ Score:666.0
+***Alignment*** 
+Sequence:gi|493927834|ref|WP_006872564.1| riboflavin synthase [Legionella drancourtii]
+ e-value:1.67304e-85
+ Score:663.0
+***Alignment*** 
+Sequence:gi|966424879|ref|WP_058467493.1| riboflavin synthase [Fluoribacter gormanii]
+ e-value:7.42349e-85
+ Score:659.0
+***Alignment*** 
+Sequence:gi|966415630|ref|WP_058458915.1| riboflavin synthase [Fluoribacter bozemanae]
+ e-value:9.97524e-85
+ Score:658.0
+***Alignment*** 
+Sequence:gi|750218108|ref|WP_040522181.1| riboflavin synthase [Legionella anisa]
+ e-value:2.35658e-83
+ Score:649.0
+***Alignment*** 
+Sequence:gi|966494767|ref|WP_058511555.1| riboflavin synthase [Legionella steelei]
+ e-value:1.35308e-82
+ Score:644.0
+***Alignment*** 
+Sequence:gi|1227536852|ref|WP_094091127.1| riboflavin synthase subunit alpha [Legionella clemsonensis]
+ e-value:1.78373e-82
+ Score:643.0
+***Alignment*** 
+Sequence:gi|966518706|ref|WP_058535200.1| riboflavin synthase [Legionella saoudiensis]
+ e-value:2.6356e-82
+ Score:642.0
+***Alignment*** 
+Sequence:gi|966405728|ref|WP_058449134.1| riboflavin synthase [Legionella jamestowniensis]
+ e-value:2.91836e-82
+ Score:642.0
+***Alignment*** 
+Sequence:gi|654932118|ref|WP_028382480.1| riboflavin synthase [Legionella cherrii]
+ e-value:4.47135e-82
+ Score:641.0
+***Alignment*** 
+Sequence:gi|963703958|ref|WP_058388097.1| riboflavin synthase [Legionella cherrii]
+ e-value:1.12081e-81
+ Score:638.0
+***Alignment*** 
+Sequence:gi|966409544|ref|WP_058452936.1| riboflavin synthase [Legionella maceachernii]
+ e-value:1.41114e-81
+ Score:637.0
+***Alignment*** 
+Sequence:gi|966401130|ref|WP_058444725.1| riboflavin synthase [Legionella feeleii]
+ e-value:1.50595e-81
+ Score:637.0
+***Alignment*** 
+Sequence:gi|769989856|ref|WP_045105806.1| riboflavin synthase [Legionella hackeliae]
+ e-value:2.78048e-81
+ Score:635.0
+***Alignment*** 
+Sequence:gi|769983541|ref|WP_045099523.1| riboflavin synthase [Tatlockia micdadei]
+ e-value:3.06011e-80
+ Score:629.0
+***Alignment*** 
+Sequence:gi|498338160|ref|WP_010652316.1| riboflavin synthase [Fluoribacter dumoffii]
+ e-value:5.68862e-80
+ Score:627.0
+***Alignment*** 
+Sequence:gi|966395053|ref|WP_058440518.1| riboflavin synthase [Legionella brunensis]
+ e-value:2.82279e-78
+ Score:616.0

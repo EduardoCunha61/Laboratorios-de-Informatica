@@ -1,0 +1,200 @@
+***Alignment*** 
+Sequence:gi|499249373|ref|WP_010946913.1| bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Legionella pneumophila] >gi|52841413|ref|YP_095212.1| riboflavin biosynthesis protein RibA [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]
+ e-value:0.0
+ Score:2125.0
+***Alignment*** 
+Sequence:gi|499534053|ref|WP_011215282.1| bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Legionella pneumophila]
+ e-value:0.0
+ Score:2120.0
+***Alignment*** 
+Sequence:gi|1074872857|ref|WP_070071185.1| bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Legionella pneumophila]
+ e-value:0.0
+ Score:2120.0
+***Alignment*** 
+Sequence:gi|653013685|ref|WP_027265742.1| bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Legionella pneumophila]
+ e-value:0.0
+ Score:2117.0
+***Alignment*** 
+Sequence:gi|742354622|ref|WP_038838079.1| bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Legionella pneumophila]
+ e-value:0.0
+ Score:2116.0
+***Alignment*** 
+Sequence:gi|1005609475|ref|WP_061691969.1| bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Legionella pneumophila]
+ e-value:0.0
+ Score:2115.0
+***Alignment*** 
+Sequence:gi|654928003|ref|WP_028378485.1| bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Legionella pneumophila]
+ e-value:0.0
+ Score:2112.0
+***Alignment*** 
+Sequence:gi|504654313|ref|WP_014841415.1| bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Legionella pneumophila]
+ e-value:0.0
+ Score:2085.0
+***Alignment*** 
+Sequence:gi|652975049|ref|WP_027227759.1| bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Legionella pneumophila]
+ e-value:0.0
+ Score:2084.0
+***Alignment*** 
+Sequence:gi|652967831|ref|WP_027220753.1| bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Legionella pneumophila]
+ e-value:0.0
+ Score:2084.0
+***Alignment*** 
+Sequence:gi|500492068|ref|WP_011946292.1| bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Legionella pneumophila]
+ e-value:0.0
+ Score:2083.0
+***Alignment*** 
+Sequence:gi|653014937|ref|WP_027266967.1| bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Legionella pneumophila]
+ e-value:0.0
+ Score:2082.0
+***Alignment*** 
+Sequence:gi|499526896|ref|WP_011213536.1| bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Legionella pneumophila]
+ e-value:0.0
+ Score:2079.0
+***Alignment*** 
+Sequence:gi|652974000|ref|WP_027226715.1| bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Legionella pneumophila]
+ e-value:0.0
+ Score:2077.0
+***Alignment*** 
+Sequence:gi|652971266|ref|WP_027224126.1| bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Legionella pneumophila]
+ e-value:0.0
+ Score:2076.0
+***Alignment*** 
+Sequence:gi|1005410392|ref|WP_061639644.1| bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Legionella pneumophila]
+ e-value:0.0
+ Score:2074.0
+***Alignment*** 
+Sequence:gi|1004334653|ref|WP_061513578.1| bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Legionella pneumophila]
+ e-value:0.0
+ Score:2073.0
+***Alignment*** 
+Sequence:gi|1011915955|ref|WP_062728606.1| bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Legionella pneumophila]
+ e-value:0.0
+ Score:2070.0
+***Alignment*** 
+Sequence:gi|1004013198|ref|WP_061483198.1| bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Legionella pneumophila]
+ e-value:0.0
+ Score:2070.0
+***Alignment*** 
+Sequence:gi|652968526|ref|WP_027221420.1| bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Legionella pneumophila]
+ e-value:0.0
+ Score:2039.0
+***Alignment*** 
+Sequence:gi|769979213|ref|WP_045095198.1| bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Legionella fallonii]
+ e-value:0.0
+ Score:1792.0
+***Alignment*** 
+Sequence:gi|966434924|ref|WP_058475355.1| bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Legionella quateirensis]
+ e-value:0.0
+ Score:1774.0
+***Alignment*** 
+Sequence:gi|966435288|ref|WP_058475668.1| bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Legionella steigerwaltii]
+ e-value:0.0
+ Score:1773.0
+***Alignment*** 
+Sequence:gi|654934715|ref|WP_028385030.1| bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Legionella moravica]
+ e-value:0.0
+ Score:1768.0
+***Alignment*** 
+Sequence:gi|654931662|ref|WP_028382025.1| bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Legionella cherrii]
+ e-value:0.0
+ Score:1765.0
+***Alignment*** 
+Sequence:gi|502743982|ref|WP_012978966.1| bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Legionella longbeachae]
+ e-value:0.0
+ Score:1765.0
+***Alignment*** 
+Sequence:gi|489728179|ref|WP_003632295.1| bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Legionella longbeachae]
+ e-value:0.0
+ Score:1764.0
+***Alignment*** 
+Sequence:gi|963702776|ref|WP_058387580.1| bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Legionella cherrii]
+ e-value:0.0
+ Score:1762.0
+***Alignment*** 
+Sequence:gi|966440853|ref|WP_058481176.1| bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Legionella waltersii]
+ e-value:0.0
+ Score:1760.0
+***Alignment*** 
+Sequence:gi|966495473|ref|WP_058512261.1| bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Legionella steelei]
+ e-value:0.0
+ Score:1760.0
+***Alignment*** 
+Sequence:gi|966415806|ref|WP_058459091.1| bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Fluoribacter bozemanae]
+ e-value:0.0
+ Score:1758.0
+***Alignment*** 
+Sequence:gi|966467463|ref|WP_058498789.1| bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Legionella gratiana]
+ e-value:0.0
+ Score:1756.0
+***Alignment*** 
+Sequence:gi|517404236|ref|WP_018577029.1| bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Legionella shakespearei]
+ e-value:0.0
+ Score:1755.0
+***Alignment*** 
+Sequence:gi|498339141|ref|WP_010653297.1| bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Fluoribacter dumoffii]
+ e-value:0.0
+ Score:1752.0
+***Alignment*** 
+Sequence:gi|966422396|ref|WP_058465597.1| bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Legionella cincinnatiensis]
+ e-value:0.0
+ Score:1750.0
+***Alignment*** 
+Sequence:gi|671592178|ref|WP_031567538.1| bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Legionella wadsworthii]
+ e-value:0.0
+ Score:1750.0
+***Alignment*** 
+Sequence:gi|966498230|ref|WP_058514996.1| bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Legionella santicrucis]
+ e-value:0.0
+ Score:1748.0
+***Alignment*** 
+Sequence:gi|966425283|ref|WP_058467821.1| bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Fluoribacter gormanii]
+ e-value:0.0
+ Score:1747.0
+***Alignment*** 
+Sequence:gi|966504041|ref|WP_058520700.1| bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Legionella tucsonensis]
+ e-value:0.0
+ Score:1746.0
+***Alignment*** 
+Sequence:gi|518065233|ref|WP_019235441.1| bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Legionella anisa]
+ e-value:0.0
+ Score:1739.0
+***Alignment*** 
+Sequence:gi|966461350|ref|WP_058493703.1| bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Legionella worsleiensis]
+ e-value:0.0
+ Score:1735.0
+***Alignment*** 
+Sequence:gi|966502083|ref|WP_058518756.1| bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Legionella parisiensis]
+ e-value:0.0
+ Score:1734.0
+***Alignment*** 
+Sequence:gi|1326064974|ref|WP_101899891.1| bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Legionella sainthelensi]
+ e-value:0.0
+ Score:1731.0
+***Alignment*** 
+Sequence:gi|653019612|ref|WP_027271560.1| bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Legionella sainthelensi]
+ e-value:0.0
+ Score:1728.0
+***Alignment*** 
+Sequence:gi|493925477|ref|WP_006870288.1| bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Legionella drancourtii]
+ e-value:0.0
+ Score:1718.0
+***Alignment*** 
+Sequence:gi|966463474|ref|WP_058494836.1| bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Legionella drozanskii]
+ e-value:0.0
+ Score:1683.0
+***Alignment*** 
+Sequence:gi|966518273|ref|WP_058534767.1| bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Legionella saoudiensis]
+ e-value:0.0
+ Score:1662.0
+***Alignment*** 
+Sequence:gi|966473333|ref|WP_058504094.1| bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Legionella nautarum]
+ e-value:0.0
+ Score:1662.0
+***Alignment*** 
+Sequence:gi|644964866|ref|WP_025385621.1| bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Legionella oakridgensis]
+ e-value:0.0
+ Score:1659.0
+***Alignment*** 
+Sequence:gi|966409545|ref|WP_058452937.1| bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Legionella maceachernii]
+ e-value:0.0
+ Score:1639.0

@@ -61,6 +61,24 @@
 	<p> &nbsp &nbsp &nbsp Neste ponto, o objetivo era automatizar o processo de análise do Blast das proteínas, recorrendo à ferramenta Blast presente no package Biopython. Esta ferramenta permitiu obter os resultados deste processo em formatos XML e texto. Uma homologia realmente sólida requer especial atenção ao comportamento de três fatores aquando a seleção de alinhamentos: o e-value, o query cover e o ident. O e-value deverá ser o mais próximo possível de zero, enquanto que ambos o query cover e o ident deverão tender para 100%. Uma análise do ficheiro resultado do Blast, em XML, permite, entre outros, selecionar os alinhamentos com um menor e-value de uma forma automatizada. Contudo, não é possível fazer o mesmo com o ficheiro de texto usando python, apesar de conter os valores e-valuee ident de cada alinhamento. Estas restrições não permitem automatizar uma análise dos resultados do Blast usando os três parâmetros necessários para uma homologia sólida.<br>
 	&nbsp &nbsp &nbsp Assim, só foi considerado o ficheiro XML, que contém apenas o e-value dos alinhamentos, para fazer a análise com recurso ao Biopython. Os alinhamentos com um e-value menor que 0,01 foram retirados de cada ficheiro resultado em XML,guardando a sequência alinhada, o score e o e-value num outro ficheiro. Uma análise manual deste ficheiro com os alinhamentos retirou os cinco resultados com o menor e-value que correspondessem a espécies de Legionella diferentes da estudada. Contudo, como o grau de confiança nesta análise é baixo, pois só teve em consideração os valores de e-value, estes resultados foram comparados com os resultados do Blast usando o site do NCBI, sendo que só se detetou uma pequena diferença nos resultados da proteína codificada pelo gene RibE. Por fim, através de pesquisas no site da Uniprot foram retiradas as funções das proteínas selecionadas anteriormente, de forma a comparar a sua função com a das proteínas estudadas. Uma vez que as sequências têm uma grande homologia, é expectável que as suas funções sejam iguais ou bastante semelhantes. </p>
 
+	<p>
+		<a href="./scripts/BLAST/Blast.py"> Aqui </a> encontra-se o script que executa a análise de homologias por Blast.
+		
+		De forma a poder executar esse script corretamente, é necessário ter os seguintes ficheiros, para cada proteína:
+		<ol>
+		<li><a href="./scripts/Tabela/prot1.fasta">Proteina 1</a></li>
+		<li><a href="./scripts/Tabela/prot2.fasta">Proteina 2</a></li>
+		<li><a href="./scripts/Tabela/prot3.fasta">Proteina 3</a></li>
+		<li><a href="./scripts/Tabela/prot4.fasta">Proteina 4</a></li>
+		<li><a href="./scripts/Tabela/prot5.fasta">Proteina 5</a></li>
+		</ol>
+	</p>
+
+	</p>
+
+
+
+
 	<ul style="list-style-type:disc">
 		<li><h5> Gene ribF </h5></li>	
 	</ul>

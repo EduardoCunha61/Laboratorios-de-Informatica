@@ -1,0 +1,200 @@
+
+ ***Alignment***gi|499249131|ref|WP_010946671.1| bifunctional riboflavin kinase/FAD synthetase [Legionella pneumophila] >gi|52841171|ref|YP_094970.1| riboflavin biosynthesis RibF [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]elphia 1]
+ e-value:0.0
+ Score:1748.0
+***Alignment*** 
+Sequence:gi|653014855|ref|WP_027266885.1| bifunctional riboflavin kinase/FAD synthetase [Legionella pneumophila]
+ e-value:0.0
+ Score:1738.0
+***Alignment*** 
+Sequence:gi|499533821|ref|WP_011215102.1| bifunctional riboflavin kinase/FAD synthetase [Legionella pneumophila]
+ e-value:0.0
+ Score:1737.0
+***Alignment*** 
+Sequence:gi|1005609614|ref|WP_061692108.1| bifunctional riboflavin kinase/FAD synthetase [Legionella pneumophila]
+ e-value:0.0
+ Score:1737.0
+***Alignment*** 
+Sequence:gi|504654180|ref|WP_014841282.1| bifunctional riboflavin kinase/FAD synthetase [Legionella pneumophila]
+ e-value:0.0
+ Score:1733.0
+***Alignment*** 
+Sequence:gi|1004334049|ref|WP_061512974.1| bifunctional riboflavin kinase/FAD synthetase [Legionella pneumophila]
+ e-value:0.0
+ Score:1730.0
+***Alignment*** 
+Sequence:gi|499526721|ref|WP_011213361.1| bifunctional riboflavin kinase/FAD synthetase [Legionella pneumophila]
+ e-value:0.0
+ Score:1728.0
+***Alignment*** 
+Sequence:gi|504656503|ref|WP_014843605.1| bifunctional riboflavin kinase/FAD synthetase [Legionella pneumophila]
+ e-value:0.0
+ Score:1725.0
+***Alignment*** 
+Sequence:gi|1003777955|ref|WP_061466639.1| bifunctional riboflavin kinase/FAD synthetase [Legionella pneumophila]
+ e-value:0.0
+ Score:1725.0
+***Alignment*** 
+Sequence:gi|1005410451|ref|WP_061639703.1| bifunctional riboflavin kinase/FAD synthetase [Legionella pneumophila]
+ e-value:0.0
+ Score:1722.0
+***Alignment*** 
+Sequence:gi|754878505|ref|WP_042238144.1| bifunctional riboflavin kinase/FAD synthetase [Legionella pneumophila]
+ e-value:0.0
+ Score:1719.0
+***Alignment*** 
+Sequence:gi|652968026|ref|WP_027220944.1| bifunctional riboflavin kinase/FAD synthetase [Legionella pneumophila]
+ e-value:0.0
+ Score:1719.0
+***Alignment*** 
+Sequence:gi|1003772720|ref|WP_061465705.1| bifunctional riboflavin kinase/FAD synthetase [Legionella pneumophila]
+ e-value:0.0
+ Score:1718.0
+***Alignment*** 
+Sequence:gi|1005400294|ref|WP_061634762.1| bifunctional riboflavin kinase/FAD synthetase [Legionella pneumophila]
+ e-value:0.0
+ Score:1718.0
+***Alignment*** 
+Sequence:gi|1004014140|ref|WP_061483597.1| bifunctional riboflavin kinase/FAD synthetase [Legionella pneumophila]
+ e-value:0.0
+ Score:1717.0
+***Alignment*** 
+Sequence:gi|502866295|ref|WP_013101271.1| bifunctional riboflavin kinase/FAD synthetase [Legionella pneumophila]
+ e-value:0.0
+ Score:1711.0
+***Alignment*** 
+Sequence:gi|652966644|ref|WP_027219626.1| bifunctional riboflavin kinase/FAD synthetase [Legionella pneumophila]
+ e-value:0.0
+ Score:1703.0
+***Alignment*** 
+Sequence:gi|652974929|ref|WP_027227639.1| bifunctional riboflavin kinase/FAD synthetase [Legionella pneumophila]
+ e-value:0.0
+ Score:1636.0
+***Alignment*** 
+Sequence:gi|1011915222|ref|WP_062728436.1| bifunctional riboflavin kinase/FAD synthetase [Legionella pneumophila]
+ e-value:0.0
+ Score:1634.0
+***Alignment*** 
+Sequence:gi|652968379|ref|WP_027221273.1| bifunctional riboflavin kinase/FAD synthetase [Legionella pneumophila]
+ e-value:0.0
+ Score:1613.0
+***Alignment*** 
+Sequence:gi|737921817|ref|WP_035887118.1| bifunctional riboflavin kinase/FAD synthetase [Legionella norrlandica]
+ e-value:0.0
+ Score:1332.0
+***Alignment*** 
+Sequence:gi|517403311|ref|WP_018576167.1| bifunctional riboflavin kinase/FAD synthetase [Legionella shakespearei]
+ e-value:1.00633e-163
+ Score:1203.0
+***Alignment*** 
+Sequence:gi|518064902|ref|WP_019235110.1| bifunctional riboflavin kinase/FAD synthetase [Legionella anisa]
+ e-value:2.23995e-161
+ Score:1188.0
+***Alignment*** 
+Sequence:gi|966425758|ref|WP_058468296.1| bifunctional riboflavin kinase/FAD synthetase [Fluoribacter gormanii]
+ e-value:1.95701e-160
+ Score:1181.0
+***Alignment*** 
+Sequence:gi|750233072|ref|WP_040534758.1| bifunctional riboflavin kinase/FAD synthetase [Legionella drancourtii]
+ e-value:3.49271e-159
+ Score:1173.0
+***Alignment*** 
+Sequence:gi|769979127|ref|WP_045095112.1| bifunctional riboflavin kinase/FAD synthetase [Legionella fallonii]
+ e-value:9.32585e-159
+ Score:1169.0
+***Alignment*** 
+Sequence:gi|966501172|ref|WP_058517845.1| bifunctional riboflavin kinase/FAD synthetase [Legionella parisiensis]
+ e-value:4.61123e-158
+ Score:1166.0
+***Alignment*** 
+Sequence:gi|966433544|ref|WP_058473977.1| bifunctional riboflavin kinase/FAD synthetase [Legionella quateirensis]
+ e-value:7.05896e-158
+ Score:1164.0
+***Alignment*** 
+Sequence:gi|966503343|ref|WP_058520002.1| bifunctional riboflavin kinase/FAD synthetase [Legionella tucsonensis]
+ e-value:1.7271e-157
+ Score:1161.0
+***Alignment*** 
+Sequence:gi|966414856|ref|WP_058458141.1| bifunctional riboflavin kinase/FAD synthetase [Fluoribacter bozemanae]
+ e-value:5.18031e-157
+ Score:1159.0
+***Alignment*** 
+Sequence:gi|654929779|ref|WP_028380149.1| bifunctional riboflavin kinase/FAD synthetase [Legionella cherrii]
+ e-value:7.68208e-157
+ Score:1158.0
+***Alignment*** 
+Sequence:gi|963703391|ref|WP_058387843.1| bifunctional riboflavin kinase/FAD synthetase [Legionella cherrii]
+ e-value:1.46531e-156
+ Score:1156.0
+***Alignment*** 
+Sequence:gi|653020395|ref|WP_027272322.1| bifunctional riboflavin kinase/FAD synthetase [Legionella sainthelensi]
+ e-value:2.80997e-156
+ Score:1154.0
+***Alignment*** 
+Sequence:gi|654935241|ref|WP_028385551.1| bifunctional riboflavin kinase/FAD synthetase [Legionella moravica]
+ e-value:4.6425e-156
+ Score:1151.0
+***Alignment*** 
+Sequence:gi|966461167|ref|WP_058493520.1| bifunctional riboflavin kinase/FAD synthetase [Legionella worsleiensis]
+ e-value:1.41797e-155
+ Score:1148.0
+***Alignment*** 
+Sequence:gi|518179411|ref|WP_019349619.1| bifunctional riboflavin kinase/FAD synthetase [Fluoribacter dumoffii]
+ e-value:4.11579e-155
+ Score:1146.0
+***Alignment*** 
+Sequence:gi|966466102|ref|WP_058497428.1| bifunctional riboflavin kinase/FAD synthetase [Legionella gratiana]
+ e-value:1.52624e-154
+ Score:1142.0
+***Alignment*** 
+Sequence:gi|489732717|ref|WP_003636827.1| bifunctional riboflavin kinase/FAD synthetase [Legionella longbeachae]
+ e-value:2.2386e-154
+ Score:1141.0
+***Alignment*** 
+Sequence:gi|498339938|ref|WP_010654094.1| bifunctional riboflavin kinase/FAD synthetase [Fluoribacter dumoffii]
+ e-value:8.3465e-154
+ Score:1138.0
+***Alignment*** 
+Sequence:gi|1326065390|ref|WP_101900307.1| bifunctional riboflavin kinase/FAD synthetase [Legionella sainthelensi]
+ e-value:8.60168e-154
+ Score:1137.0
+***Alignment*** 
+Sequence:gi|966519112|ref|WP_058535606.1| bifunctional riboflavin kinase/FAD synthetase [Legionella saoudiensis]
+ e-value:2.31536e-153
+ Score:1134.0
+***Alignment*** 
+Sequence:gi|966437624|ref|WP_058477992.1| bifunctional riboflavin kinase/FAD synthetase [Legionella steigerwaltii]
+ e-value:2.72875e-153
+ Score:1134.0
+***Alignment*** 
+Sequence:gi|966494080|ref|WP_058510868.1| bifunctional riboflavin kinase/FAD synthetase [Legionella steelei]
+ e-value:4.56387e-153
+ Score:1133.0
+***Alignment*** 
+Sequence:gi|966438933|ref|WP_058479256.1| bifunctional riboflavin kinase/FAD synthetase [Legionella waltersii]
+ e-value:7.19643e-151
+ Score:1119.0
+***Alignment*** 
+Sequence:gi|966497716|ref|WP_058514482.1| bifunctional riboflavin kinase/FAD synthetase [Legionella santicrucis]
+ e-value:2.93926e-149
+ Score:1108.0
+***Alignment*** 
+Sequence:gi|966421267|ref|WP_058464468.1| bifunctional riboflavin kinase/FAD synthetase [Legionella cincinnatiensis]
+ e-value:1.99417e-148
+ Score:1102.0
+***Alignment*** 
+Sequence:gi|671589214|ref|WP_031565067.1| bifunctional riboflavin kinase/FAD synthetase [Legionella wadsworthii]
+ e-value:1.21376e-146
+ Score:1091.0
+***Alignment*** 
+Sequence:gi|966427769|ref|WP_058470265.1| bifunctional riboflavin kinase/FAD synthetase [Legionella jordanis]
+ e-value:6.85891e-134
+ Score:1005.0
+***Alignment*** 
+Sequence:gi|966470832|ref|WP_058501747.1| bifunctional riboflavin kinase/FAD synthetase [Legionella israelensis]
+ e-value:2.3799e-132
+ Score:995.0
+***Alignment*** 
+Sequence:gi|654922309|ref|WP_028372863.1| bifunctional riboflavin kinase/FAD synthetase [Legionella lansingensis]
+ e-value:2.67094e-131
+ Score:988.0

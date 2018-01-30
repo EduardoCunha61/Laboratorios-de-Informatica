@@ -1,0 +1,1442 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.7.1+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>refseq_protein</BlastOutput_db>
+  <BlastOutput_query-ID>Query_206897</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>155</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_206897</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>155</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|499249374|ref|WP_010946914.1|</Hit_id>
+  <Hit_def>6,7-dimethyl-8-ribityllumazine synthase [Legionella pneumophila] &gt;gi|52841414|ref|YP_095213.1| 6,7-dimethyl-8-ribityllumazine synthase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]</Hit_def>
+  <Hit_accession>WP_010946914</Hit_accession>
+  <Hit_len>155</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>316.235</Hsp_bit-score>
+      <Hsp_score>809</Hsp_score>
+      <Hsp_evalue>2.36139e-109</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>155</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>155</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>155</Hsp_identity>
+      <Hsp_positive>155</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>155</Hsp_align-len>
+      <Hsp_qseq>MREIKTIVSDGVTFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQLQ</Hsp_qseq>
+      <Hsp_hseq>MREIKTIVSDGVTFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQLQ</Hsp_hseq>
+      <Hsp_midline>MREIKTIVSDGVTFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQLQ</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|914603668|ref|WP_050598095.1|</Hit_id>
+  <Hit_def>6,7-dimethyl-8-ribityllumazine synthase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_050598095</Hit_accession>
+  <Hit_len>155</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>315.079</Hsp_bit-score>
+      <Hsp_score>806</Hsp_score>
+      <Hsp_evalue>7.39425e-109</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>155</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>155</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>154</Hsp_identity>
+      <Hsp_positive>154</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>155</Hsp_align-len>
+      <Hsp_qseq>MREIKTIVSDGVTFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQLQ</Hsp_qseq>
+      <Hsp_hseq>MREIKTIVSDGVTFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARAGGTHGHKGRDAIDCAVSMRSIKQQLQ</Hsp_hseq>
+      <Hsp_midline>MREIKTIVSDGVTFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALAR GGTHGHKGRDAIDCAVSMRSIKQQLQ</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|914603588|ref|WP_050598015.1|</Hit_id>
+  <Hit_def>6,7-dimethyl-8-ribityllumazine synthase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_050598015</Hit_accession>
+  <Hit_len>155</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>315.079</Hsp_bit-score>
+      <Hsp_score>806</Hsp_score>
+      <Hsp_evalue>7.39425e-109</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>155</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>155</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>154</Hsp_identity>
+      <Hsp_positive>154</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>155</Hsp_align-len>
+      <Hsp_qseq>MREIKTIVSDGVTFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQLQ</Hsp_qseq>
+      <Hsp_hseq>MREIKTIVSDGVTFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKAEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQLQ</Hsp_hseq>
+      <Hsp_midline>MREIKTIVSDGVTFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQK EVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQLQ</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|1004027100|ref|WP_061489273.1|</Hit_id>
+  <Hit_def>6,7-dimethyl-8-ribityllumazine synthase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061489273</Hit_accession>
+  <Hit_len>155</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>313.923</Hsp_bit-score>
+      <Hsp_score>803</Hsp_score>
+      <Hsp_evalue>2.16778e-108</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>155</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>155</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>154</Hsp_identity>
+      <Hsp_positive>154</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>155</Hsp_align-len>
+      <Hsp_qseq>MREIKTIVSDGVTFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQLQ</Hsp_qseq>
+      <Hsp_hseq>MREIKTIVSDGVTFPIALVVSTFNELITSALKKGALDRLIELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQLQ</Hsp_hseq>
+      <Hsp_midline>MREIKTIVSDGVTFPIALVVSTFNELITSALKKGALDRL ELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQLQ</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|504654314|ref|WP_014841416.1|</Hit_id>
+  <Hit_def>6,7-dimethyl-8-ribityllumazine synthase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_014841416</Hit_accession>
+  <Hit_len>155</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>313.538</Hsp_bit-score>
+      <Hsp_score>802</Hsp_score>
+      <Hsp_evalue>2.72968e-108</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>155</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>155</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>153</Hsp_identity>
+      <Hsp_positive>154</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>155</Hsp_align-len>
+      <Hsp_qseq>MREIKTIVSDGVTFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQLQ</Hsp_qseq>
+      <Hsp_hseq>MREIKTIVSDGVTFPIAIVVSNFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQLQ</Hsp_hseq>
+      <Hsp_midline>MREIKTIVSDGVTFPIA+VVS FNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQLQ</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|914297299|ref|WP_050566912.1|</Hit_id>
+  <Hit_def>6,7-dimethyl-8-ribityllumazine synthase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_050566912</Hit_accession>
+  <Hit_len>155</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>313.538</Hsp_bit-score>
+      <Hsp_score>802</Hsp_score>
+      <Hsp_evalue>2.85218e-108</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>155</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>155</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>154</Hsp_identity>
+      <Hsp_positive>154</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>155</Hsp_align-len>
+      <Hsp_qseq>MREIKTIVSDGVTFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQLQ</Hsp_qseq>
+      <Hsp_hseq>MREIKTIVSDGVTFPIALVVSTFNERITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQLQ</Hsp_hseq>
+      <Hsp_midline>MREIKTIVSDGVTFPIALVVSTFNE ITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQLQ</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|499534054|ref|WP_011215283.1|</Hit_id>
+  <Hit_def>6,7-dimethyl-8-ribityllumazine synthase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011215283</Hit_accession>
+  <Hit_len>155</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>313.538</Hsp_bit-score>
+      <Hsp_score>802</Hsp_score>
+      <Hsp_evalue>3.47516e-108</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>155</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>155</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>154</Hsp_identity>
+      <Hsp_positive>154</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>155</Hsp_align-len>
+      <Hsp_qseq>MREIKTIVSDGVTFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQLQ</Hsp_qseq>
+      <Hsp_hseq>MREIKTIVSDGVTFPIALVVSTFNEPITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQLQ</Hsp_hseq>
+      <Hsp_midline>MREIKTIVSDGVTFPIALVVSTFNE ITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQLQ</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|1011914361|ref|WP_062727575.1|</Hit_id>
+  <Hit_def>6,7-dimethyl-8-ribityllumazine synthase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_062727575</Hit_accession>
+  <Hit_len>155</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>311.612</Hsp_bit-score>
+      <Hsp_score>797</Hsp_score>
+      <Hsp_evalue>1.88368e-107</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>155</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>155</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>152</Hsp_identity>
+      <Hsp_positive>154</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>155</Hsp_align-len>
+      <Hsp_qseq>MREIKTIVSDGVTFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQLQ</Hsp_qseq>
+      <Hsp_hseq>MREIKTIVSDGVTFPIAIVVSTFNELITSALKKGALDRLTELGFKSDDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALERVGGTHGHKGRDAIDCAVSMRSIKQQLQ</Hsp_hseq>
+      <Hsp_midline>MREIKTIVSDGVTFPIA+VVSTFNELITSALKKGALDRLTELGFKS+DITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQAL RVGGTHGHKGRDAIDCAVSMRSIKQQLQ</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|914603778|ref|WP_050598205.1|</Hit_id>
+  <Hit_def>6,7-dimethyl-8-ribityllumazine synthase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_050598205</Hit_accession>
+  <Hit_len>155</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>311.227</Hsp_bit-score>
+      <Hsp_score>796</Hsp_score>
+      <Hsp_evalue>2.50572e-107</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>155</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>155</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>151</Hsp_identity>
+      <Hsp_positive>154</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>155</Hsp_align-len>
+      <Hsp_qseq>MREIKTIVSDGVTFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQLQ</Hsp_qseq>
+      <Hsp_hseq>MREIKTIVSDGVTFPIAIVVSTFNELVTSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALERVGGSHGHKGRDAIDCAVSMRSIKQQLQ</Hsp_hseq>
+      <Hsp_midline>MREIKTIVSDGVTFPIA+VVSTFNEL+TSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQAL RVGG+HGHKGRDAIDCAVSMRSIKQQLQ</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|1004013201|ref|WP_061483199.1|</Hit_id>
+  <Hit_def>6,7-dimethyl-8-ribityllumazine synthase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061483199</Hit_accession>
+  <Hit_len>155</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>306.22</Hsp_bit-score>
+      <Hsp_score>783</Hsp_score>
+      <Hsp_evalue>2.80817e-105</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>155</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>155</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>150</Hsp_identity>
+      <Hsp_positive>151</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>155</Hsp_align-len>
+      <Hsp_qseq>MREIKTIVSDGVTFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQLQ</Hsp_qseq>
+      <Hsp_hseq>MREIKTIVSDGVTFPIGIVVSNFNELITSALKKGALDRLTELGFKPEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRFIKQQLQ</Hsp_hseq>
+      <Hsp_midline>MREIKTIVSDGVTFPI +VVS FNELITSALKKGALDRLTELGFK EDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMR IKQQLQ</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|1169118729|ref|WP_080464852.1|</Hit_id>
+  <Hit_def>6,7-dimethyl-8-ribityllumazine synthase, partial [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_080464852</Hit_accession>
+  <Hit_len>149</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>302.368</Hsp_bit-score>
+      <Hsp_score>773</Hsp_score>
+      <Hsp_evalue>7.08599e-104</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>149</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>149</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>148</Hsp_identity>
+      <Hsp_positive>148</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>149</Hsp_align-len>
+      <Hsp_qseq>MREIKTIVSDGVTFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRS</Hsp_qseq>
+      <Hsp_hseq>MREIKTIVSDGVTFPIALVVSTFNERITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRS</Hsp_hseq>
+      <Hsp_midline>MREIKTIVSDGVTFPIALVVSTFNE ITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|914603839|ref|WP_050598266.1|</Hit_id>
+  <Hit_def>6,7-dimethyl-8-ribityllumazine synthase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_050598266</Hit_accession>
+  <Hit_len>155</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>300.442</Hsp_bit-score>
+      <Hsp_score>768</Hsp_score>
+      <Hsp_evalue>5.04353e-103</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>155</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>155</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>146</Hsp_identity>
+      <Hsp_positive>151</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>155</Hsp_align-len>
+      <Hsp_qseq>MREIKTIVSDGVTFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQLQ</Hsp_qseq>
+      <Hsp_hseq>MREIKTIVSDNVTFPIAIVVSTFNELITSALKQGALDRLTELGFKSNDITLVEVPGAVEIPFVAQLLAKKLQVEVIVALGAVIRGETSHYDYVCEQVSQGCQRVMLDYNIPVIFGVLTTENDEQALERVGGTHGHKGREAIDCAVSMRSIKQQLQ</Hsp_hseq>
+      <Hsp_midline>MREIKTIVSD VTFPIA+VVSTFNELITSALK+GALDRLTELGFKS DITLVEVPGAVEIPFVAQLLAKK +VEVIVALGAVIRGETSHYDYVC+QVSQGCQRVMLDYNIPVIFGVLTTENDEQAL RVGGTHGHKGR+AIDCAVSMRSIKQQLQ</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|769979214|ref|WP_045095199.1|</Hit_id>
+  <Hit_def>6,7-dimethyl-8-ribityllumazine synthase [Legionella fallonii]</Hit_def>
+  <Hit_accession>WP_045095199</Hit_accession>
+  <Hit_len>156</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>245.358</Hsp_bit-score>
+      <Hsp_score>625</Hsp_score>
+      <Hsp_evalue>3.04906e-81</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>155</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>156</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>119</Hsp_identity>
+      <Hsp_positive>134</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>156</Hsp_align-len>
+      <Hsp_qseq>MREIKTIVSD-GVTFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQLQ</Hsp_qseq>
+      <Hsp_hseq>MKEIKAVVTESNNTFPIALVVSTFNRSITNALKEGALSRLAELGFNANDITLVEVPGAVEIPFVVQLLAKKGLVHSIIALGAVIRGETSHYDYVCEQVSQGCQRVMLDFNIPVIFGVLTTEDEEQAWDRLGGKHGHKGRDMADCAVMMHSIQQQLR</Hsp_hseq>
+      <Hsp_midline>M+EIK +V++   TFPIALVVSTFN  IT+ALK+GAL RL ELGF + DITLVEVPGAVEIPFV QLLAKK  V  I+ALGAVIRGETSHYDYVC+QVSQGCQRVMLD+NIPVIFGVLTTE++EQA  R+GG HGHKGRD  DCAV M SI+QQL+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|966434923|ref|WP_058475354.1|</Hit_id>
+  <Hit_def>6,7-dimethyl-8-ribityllumazine synthase [Legionella quateirensis]</Hit_def>
+  <Hit_accession>WP_058475354</Hit_accession>
+  <Hit_len>156</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>244.973</Hsp_bit-score>
+      <Hsp_score>624</Hsp_score>
+      <Hsp_evalue>3.79665e-81</Hsp_evalue>
+      <Hsp_query-from>14</Hsp_query-from>
+      <Hsp_query-to>155</Hsp_query-to>
+      <Hsp_hit-from>15</Hsp_hit-from>
+      <Hsp_hit-to>156</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>116</Hsp_identity>
+      <Hsp_positive>127</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>142</Hsp_align-len>
+      <Hsp_qseq>FPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQLQ</Hsp_qseq>
+      <Hsp_hseq>FPIAVVVSTFNEAITNALKTGALDRLAELGFKPTDITLVEVPGAVEIPFVAQLLVKNKQVDAVIALGAVIRGETSHYDYVCEQVSQGCQRVMLDYDIPVIFGVLTTENDEQAWDRLGGTHGHKGRDAADCAVEMYLISQQLR</Hsp_hseq>
+      <Hsp_midline>FPIA+VVSTFNE IT+ALK GALDRL ELGFK  DITLVEVPGAVEIPFVAQLL K ++V+ ++ALGAVIRGETSHYDYVC+QVSQGCQRVMLDY+IPVIFGVLTTENDEQA  R+GGTHGHKGRDA DCAV M  I QQL+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|737959136|ref|WP_035922350.1|</Hit_id>
+  <Hit_def>6,7-dimethyl-8-ribityllumazine synthase [Legionella moravica]</Hit_def>
+  <Hit_accession>WP_035922350</Hit_accession>
+  <Hit_len>156</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>241.891</Hsp_bit-score>
+      <Hsp_score>616</Hsp_score>
+      <Hsp_evalue>7.49083e-80</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>155</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>156</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>117</Hsp_identity>
+      <Hsp_positive>135</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>156</Hsp_align-len>
+      <Hsp_qseq>MREIKTIVSD-GVTFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQLQ</Hsp_qseq>
+      <Hsp_hseq>MRLIKARCNEIKSSFPIAVVVSTFNDAITSALKTGALERLAELGFKETDITLVEVPGAVEIPFVAQILAKNKQVDVVIALGAVIRGETSHYDYVCDQVSQGCQRVMLDHDIPVVFGVLTTENEEQAWERLGGHHGHKGRDAADCAVEMYLISQQLR</Hsp_hseq>
+      <Hsp_midline>MR IK   ++   +FPIA+VVSTFN+ ITSALK GAL+RL ELGFK  DITLVEVPGAVEIPFVAQ+LAK ++V+V++ALGAVIRGETSHYDYVCDQVSQGCQRVMLD++IPV+FGVLTTEN+EQA  R+GG HGHKGRDA DCAV M  I QQL+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|966440852|ref|WP_058481175.1|</Hit_id>
+  <Hit_def>6,7-dimethyl-8-ribityllumazine synthase [Legionella waltersii]</Hit_def>
+  <Hit_accession>WP_058481175</Hit_accession>
+  <Hit_len>155</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>240.35</Hsp_bit-score>
+      <Hsp_score>612</Hsp_score>
+      <Hsp_evalue>2.69973e-79</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>154</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>155</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>117</Hsp_identity>
+      <Hsp_positive>134</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>155</Hsp_align-len>
+      <Hsp_qseq>MREIKTIVSDGV-TFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQL</Hsp_qseq>
+      <Hsp_hseq>MNDIRTIVGTYTDPFSIAVVVSQFNEKITSALKNGAIERLIELGFSENDILLVEVPGAVEIPYAAQLIAKKQQVEVIIALGAVIRGDTSHYDYVCDQVSQGCQRVMLDNHIPVIFGVLTTDNEEQALERVGGSHGHKGRDAVDCAVAMHSIGKQL</Hsp_hseq>
+      <Hsp_midline>M +I+TIV      F IA+VVS FNE ITSALK GA++RL ELGF   DI LVEVPGAVEIP+ AQL+AKKQ+VEVI+ALGAVIRG+TSHYDYVCDQVSQGCQRVMLD +IPVIFGVLTT+N+EQAL RVGG+HGHKGRDA+DCAV+M SI +QL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|517404235|ref|WP_018577028.1|</Hit_id>
+  <Hit_def>6,7-dimethyl-8-ribityllumazine synthase [Legionella shakespearei]</Hit_def>
+  <Hit_accession>WP_018577028</Hit_accession>
+  <Hit_len>156</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>238.81</Hsp_bit-score>
+      <Hsp_score>608</Hsp_score>
+      <Hsp_evalue>1.02909e-78</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>155</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>156</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>113</Hsp_identity>
+      <Hsp_positive>133</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>156</Hsp_align-len>
+      <Hsp_qseq>MREIKTIVSD-GVTFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQLQ</Hsp_qseq>
+      <Hsp_hseq>MKEIKANLSEFKHTFPIALVVSSFNEPITNALKEGALQRLAEHGFKPSEITLVEVPGAVEIPFAAQMLAKKNQVQCIIALGAVIRGDTTHYDYVCDQASQGCQRVMLDYNLPVVFGVLTTENEAQAWDRVGGNHGHKGKDAVDCALMMHMIGRQLQ</Hsp_hseq>
+      <Hsp_midline>M+EIK  +S+   TFPIALVVS+FNE IT+ALK+GAL RL E GFK  +ITLVEVPGAVEIPF AQ+LAKK +V+ I+ALGAVIRG+T+HYDYVCDQ SQGCQRVMLDYN+PV+FGVLTTEN+ QA  RVGG HGHKG+DA+DCA+ M  I +QLQ</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|966461626|ref|WP_058493979.1|</Hit_id>
+  <Hit_def>6,7-dimethyl-8-ribityllumazine synthase [Legionella worsleiensis]</Hit_def>
+  <Hit_accession>WP_058493979</Hit_accession>
+  <Hit_len>156</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>238.424</Hsp_bit-score>
+      <Hsp_score>607</Hsp_score>
+      <Hsp_evalue>1.44559e-78</Hsp_evalue>
+      <Hsp_query-from>14</Hsp_query-from>
+      <Hsp_query-to>155</Hsp_query-to>
+      <Hsp_hit-from>15</Hsp_hit-from>
+      <Hsp_hit-to>156</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>112</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>142</Hsp_align-len>
+      <Hsp_qseq>FPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQLQ</Hsp_qseq>
+      <Hsp_hseq>FPIAVVVSTFNEAITTAMKQGTLDRLAELGFKPNDITLVEVPGAVEIPLVAQLLAKTRQVHAIIALGAVIRGETTHYDYVCEQVSQGCQSVMLDYEIPVIFGVLTTENEEQAWDRLGGTHGHKGRDAADCAVEMYLLSQQLQ</Hsp_hseq>
+      <Hsp_midline>FPIA+VVSTFNE IT+A+K+G LDRL ELGFK  DITLVEVPGAVEIP VAQLLAK ++V  I+ALGAVIRGET+HYDYVC+QVSQGCQ VMLDY IPVIFGVLTTEN+EQA  R+GGTHGHKGRDA DCAV M  + QQLQ</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|518046443|ref|WP_019216651.1|</Hit_id>
+  <Hit_def>6,7-dimethyl-8-ribityllumazine synthase [Legionella tunisiensis]</Hit_def>
+  <Hit_accession>WP_019216651</Hit_accession>
+  <Hit_len>160</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>217.238</Hsp_bit-score>
+      <Hsp_score>552</Hsp_score>
+      <Hsp_evalue>3.88799e-70</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>154</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>155</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>104</Hsp_identity>
+      <Hsp_positive>126</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>155</Hsp_align-len>
+      <Hsp_qseq>MREIKT-IVSDGVTFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQL</Hsp_qseq>
+      <Hsp_hseq>MKHIRAEIVGTVKSFPIALVVSSFNHAVTEELKRGALQRLNECGFEAKDIMVVEVPGAVEIPIVAKRLAMQQQVDVIIAQGAVIRGETSHYDYVCEQVSHGCQRVALDYNIPVIFGVLTTDNDEQAWDRLGGKHGHKGVEAVDCAIAMYKILHQL</Hsp_hseq>
+      <Hsp_midline>M+ I+  IV    +FPIALVVS+FN  +T  LK+GAL RL E GF+++DI +VEVPGAVEIP VA+ LA +Q+V+VI+A GAVIRGETSHYDYVC+QVS GCQRV LDYNIPVIFGVLTT+NDEQA  R+GG HGHKG +A+DCA++M  I  QL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|966471170|ref|WP_058502085.1|</Hit_id>
+  <Hit_def>6,7-dimethyl-8-ribityllumazine synthase [Legionella israelensis]</Hit_def>
+  <Hit_accession>WP_058502085</Hit_accession>
+  <Hit_len>156</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>216.468</Hsp_bit-score>
+      <Hsp_score>550</Hsp_score>
+      <Hsp_evalue>7.02133e-70</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>155</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>156</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>102</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>156</Hsp_align-len>
+      <Hsp_qseq>MREIKTIVS-DGVTFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQLQ</Hsp_qseq>
+      <Hsp_hseq>MKHIKGISHIQNTSFPIAVIVSRFNQPVTEALKQGALQRLSEKGIHSEDIILIEVPGAVEIPLVAKKLAQQNEIKAIIALGAVIRGETSHYDYVCSQVSEGCQRVMLDYEIPVIFGILTTENEEQAQERAGGIHGHKGVDAVDCALEMVSIMSQVE</Hsp_hseq>
+      <Hsp_midline>M+ IK I      +FPIA++VS FN+ +T ALK+GAL RL+E G  SEDI L+EVPGAVEIP VA+ LA++ +++ I+ALGAVIRGETSHYDYVC QVS+GCQRVMLDY IPVIFG+LTTEN+EQA  R GG HGHKG DA+DCA+ M SI  Q++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|966405726|ref|WP_058449132.1|</Hit_id>
+  <Hit_def>6,7-dimethyl-8-ribityllumazine synthase [Legionella jamestowniensis]</Hit_def>
+  <Hit_accession>WP_058449132</Hit_accession>
+  <Hit_len>161</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>214.157</Hsp_bit-score>
+      <Hsp_score>544</Hsp_score>
+      <Hsp_evalue>7.56907e-69</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>155</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>156</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>100</Hsp_identity>
+      <Hsp_positive>127</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>156</Hsp_align-len>
+      <Hsp_qseq>MREIKTIVSDGVT-FPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQLQ</Hsp_qseq>
+      <Hsp_hseq>MQHIKIDVTDAVSSFPVAIVVSRFNEDITKELQRGAVERLQEFGFASHNISIIEVPGAVEIPLIAKQIAMGAQVKVIIALGAVIRGDTSHYDYVCEQVSNGCQRVALDYNIPVIFGVLTTENEAQAWDRLGGAHGHKGRDAADCALEMYQITRRLE</Hsp_hseq>
+      <Hsp_midline>M+ IK  V+D V+ FP+A+VVS FNE IT  L++GA++RL E GF S +I+++EVPGAVEIP +A+ +A   +V+VI+ALGAVIRG+TSHYDYVC+QVS GCQRV LDYNIPVIFGVLTTEN+ QA  R+GG HGHKGRDA DCA+ M  I ++L+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|966428267|ref|WP_058470763.1|</Hit_id>
+  <Hit_def>6,7-dimethyl-8-ribityllumazine synthase [Legionella jordanis]</Hit_def>
+  <Hit_accession>WP_058470763</Hit_accession>
+  <Hit_len>161</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>213.772</Hsp_bit-score>
+      <Hsp_score>543</Hsp_score>
+      <Hsp_evalue>1.13516e-68</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>155</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>156</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>97</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>156</Hsp_align-len>
+      <Hsp_qseq>IKTIVSDG----VTFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQLQ</Hsp_qseq>
+      <Hsp_hseq>MKHIKVDGNQEQCSFPVAIVVSRFNQEVTKELQRGAVERLNERGFRQEDICIIEVPGAVEIPLIAQRLAKSKQVKAIIALGAVIRGETSHYDYVCEQVSNGCQRVSLDYDIPVVFGILTTDNDAQAWDRLGGNHGHKGRDAADCAIEMQHILENLE</Hsp_hseq>
+      <Hsp_midline>+K I  DG     +FP+A+VVS FN+ +T  L++GA++RL E GF+ EDI ++EVPGAVEIP +AQ LAK ++V+ I+ALGAVIRGETSHYDYVC+QVS GCQRV LDY+IPV+FG+LTT+ND QA  R+GG HGHKGRDA DCA+ M+ I + L+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|769989858|ref|WP_045105808.1|</Hit_id>
+  <Hit_def>6,7-dimethyl-8-ribityllumazine synthase [Legionella hackeliae]</Hit_def>
+  <Hit_accession>WP_045105808</Hit_accession>
+  <Hit_len>161</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>212.231</Hsp_bit-score>
+      <Hsp_score>539</Hsp_score>
+      <Hsp_evalue>4.04449e-68</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>155</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>156</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>99</Hsp_identity>
+      <Hsp_positive>127</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>156</Hsp_align-len>
+      <Hsp_qseq>MREIKTIVSDGV-TFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQLQ</Hsp_qseq>
+      <Hsp_hseq>MKHIKVSPNEVVHSFPIAIVVSRFNDAVTQELQKGAIERLKERGFTSQDITVIEVPGAVEIPLIVKQVALSGDVKVIIAQGAVIRGDTSHYDYVCEQVSNGCQRVALDHNIPVIFGILTTENEEQAWDRLGGSHGHKGRDAADCAIEMYQIRQQLE</Hsp_hseq>
+      <Hsp_midline>M+ IK   ++ V +FPIA+VVS FN+ +T  L+KGA++RL E GF S+DIT++EVPGAVEIP + + +A    V+VI+A GAVIRG+TSHYDYVC+QVS GCQRV LD+NIPVIFG+LTTEN+EQA  R+GG+HGHKGRDA DCA+ M  I+QQL+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|966401126|ref|WP_058444721.1|</Hit_id>
+  <Hit_def>6,7-dimethyl-8-ribityllumazine synthase [Legionella feeleii]</Hit_def>
+  <Hit_accession>WP_058444721</Hit_accession>
+  <Hit_len>160</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>211.846</Hsp_bit-score>
+      <Hsp_score>538</Hsp_score>
+      <Hsp_evalue>6.2681e-68</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>154</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>155</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>101</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>155</Hsp_align-len>
+      <Hsp_qseq>MREIKTIVSDGV-TFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQL</Hsp_qseq>
+      <Hsp_hseq>MKHIRAEASGTVKSFPIALVVSSFNHAVTEELKRGALQRLNECGFEAKDIIVVEVPGAVEIPIVVKRLAMQQQADVIIAQGAVIRGETSHYDYVCEQVSNGCQRVALDYNIPVIFGVLTTDSDEQAWDRLGGKHGHKGVEAVDCAIAMYKILNQL</Hsp_hseq>
+      <Hsp_midline>M+ I+   S  V +FPIALVVS+FN  +T  LK+GAL RL E GF+++DI +VEVPGAVEIP V + LA +Q+ +VI+A GAVIRGETSHYDYVC+QVS GCQRV LDYNIPVIFGVLTT++DEQA  R+GG HGHKG +A+DCA++M  I  QL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|916791904|ref|WP_051398960.1|</Hit_id>
+  <Hit_def>6,7-dimethyl-8-ribityllumazine synthase [Legionella oakridgensis]</Hit_def>
+  <Hit_accession>WP_051398960</Hit_accession>
+  <Hit_len>157</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>210.69</Hsp_bit-score>
+      <Hsp_score>535</Hsp_score>
+      <Hsp_evalue>1.57302e-67</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>154</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>155</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>104</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>155</Hsp_align-len>
+      <Hsp_qseq>MREIKTIVSD-GVTFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQL</Hsp_qseq>
+      <Hsp_hseq>MRYIKGILNEQGQSFPIAIVVSYFNQDITHELMQGAVKRLLERGFKKEDITVVEVPGAVEIPLVAQQLAKHKQGKVIIALGAVIRGETTHYDYVCQQVSHGCQQVALQQNIPVIFGVLTTENEAQAWDRLGGNHGHKGMDAADAAITMYSVLQQL</Hsp_hseq>
+      <Hsp_midline>MR IK I+++ G +FPIA+VVS FN+ IT  L +GA+ RL E GFK EDIT+VEVPGAVEIP VAQ LAK ++ +VI+ALGAVIRGET+HYDYVC QVS GCQ+V L  NIPVIFGVLTTEN+ QA  R+GG HGHKG DA D A++M S+ QQL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|966395057|ref|WP_058440520.1|</Hit_id>
+  <Hit_def>6,7-dimethyl-8-ribityllumazine synthase [Legionella brunensis]</Hit_def>
+  <Hit_accession>WP_058440520</Hit_accession>
+  <Hit_len>160</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>208.379</Hsp_bit-score>
+      <Hsp_score>529</Hsp_score>
+      <Hsp_evalue>1.33117e-66</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>155</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>156</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>98</Hsp_identity>
+      <Hsp_positive>123</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>156</Hsp_align-len>
+      <Hsp_qseq>MREIKTIVSDGV-TFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQLQ</Hsp_qseq>
+      <Hsp_hseq>MRHIAVNSSEVVNSFPLAIVVSRFNQAVTQELQRGALERLKERGIRTEDIIVVEVPGAIEISLIAKRLAVSKQVKAIIALGAVIRGETSHYDYVCEQVSNGCQRVALDYDIPVIFGVLTTENDAQAWDRLGGDHGHKGRDAADCAIEMHQISAELE</Hsp_hseq>
+      <Hsp_midline>MR I    S+ V +FP+A+VVS FN+ +T  L++GAL+RL E G ++EDI +VEVPGA+EI  +A+ LA  ++V+ I+ALGAVIRGETSHYDYVC+QVS GCQRV LDY+IPVIFGVLTTEND QA  R+GG HGHKGRDA DCA+ M  I  +L+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|966509561|ref|WP_058526152.1|</Hit_id>
+  <Hit_def>6,7-dimethyl-8-ribityllumazine synthase [Legionella erythra]</Hit_def>
+  <Hit_accession>WP_058526152</Hit_accession>
+  <Hit_len>155</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>207.608</Hsp_bit-score>
+      <Hsp_score>527</Hsp_score>
+      <Hsp_evalue>2.80463e-66</Hsp_evalue>
+      <Hsp_query-from>5</Hsp_query-from>
+      <Hsp_query-to>154</Hsp_query-to>
+      <Hsp_hit-from>6</Hsp_hit-from>
+      <Hsp_hit-to>155</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>94</Hsp_identity>
+      <Hsp_positive>121</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>150</Hsp_align-len>
+      <Hsp_qseq>KTIVSDGVTFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQL</Hsp_qseq>
+      <Hsp_hseq>ETTAEQSRSFPVALVVSQFNRDVTAELKKGAIERLLQSGFHDHDLLIVEVPGAVEIPLLAKRLAAKGQVEAIIALGAVIRGETTHYDYVCEQVSNGCQQVALEYDLPIIFGVLTTENEEQAWDRLGGRHGHKGRDAADCAIAMHTILKQL</Hsp_hseq>
+      <Hsp_midline>+T      +FP+ALVVS FN  +T+ LKKGA++RL + GF   D+ +VEVPGAVEIP +A+ LA K +VE I+ALGAVIRGET+HYDYVC+QVS GCQ+V L+Y++P+IFGVLTTEN+EQA  R+GG HGHKGRDA DCA++M +I +QL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|966442671|ref|WP_058482933.1|</Hit_id>
+  <Hit_def>6,7-dimethyl-8-ribityllumazine synthase [Legionella spiritensis]</Hit_def>
+  <Hit_accession>WP_058482933</Hit_accession>
+  <Hit_len>155</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>206.838</Hsp_bit-score>
+      <Hsp_score>525</Hsp_score>
+      <Hsp_evalue>5.59185e-66</Hsp_evalue>
+      <Hsp_query-from>13</Hsp_query-from>
+      <Hsp_query-to>154</Hsp_query-to>
+      <Hsp_hit-from>14</Hsp_hit-from>
+      <Hsp_hit-to>155</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>97</Hsp_identity>
+      <Hsp_positive>117</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>142</Hsp_align-len>
+      <Hsp_qseq>TFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQL</Hsp_qseq>
+      <Hsp_hseq>SFPIALVVSQFNKEITTVLREGALQRLRASGFDDKDILVVEVPGAVEIPLLARRLAMQQKVEAIIALGAVIRGETSHYDYVCEQVSSGCQQVALQYNLPVVFGVLTTENEEQAWDRLGGQHGHKGVDAADCAIAMHTILGQL</Hsp_hseq>
+      <Hsp_midline>+FPIALVVS FN+ IT+ L++GAL RL   GF  +DI +VEVPGAVEIP +A+ LA +QKVE I+ALGAVIRGETSHYDYVC+QVS GCQ+V L YN+PV+FGVLTTEN+EQA  R+GG HGHKG DA DCA++M +I  QL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|966513824|ref|WP_058530343.1|</Hit_id>
+  <Hit_def>6,7-dimethyl-8-ribityllumazine synthase [Legionella rubrilucens]</Hit_def>
+  <Hit_accession>WP_058530343</Hit_accession>
+  <Hit_len>155</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>205.297</Hsp_bit-score>
+      <Hsp_score>521</Hsp_score>
+      <Hsp_evalue>1.70897e-65</Hsp_evalue>
+      <Hsp_query-from>5</Hsp_query-from>
+      <Hsp_query-to>154</Hsp_query-to>
+      <Hsp_hit-from>6</Hsp_hit-from>
+      <Hsp_hit-to>155</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>93</Hsp_identity>
+      <Hsp_positive>118</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>150</Hsp_align-len>
+      <Hsp_qseq>KTIVSDGVTFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQL</Hsp_qseq>
+      <Hsp_hseq>ETTAERSPSFPVALVVSQFNRDVTAELKKGTIERLLQAGFHASDLLIVEVPGAVEIPLAAKRLAAKGQVQAIIALGAVIRGETTHYDYVCEQVSNGCQRVALDYNLPVVFGVLTTENEAQAWDRLGGRHGHKGWDAADCAIAMHTILKQL</Hsp_hseq>
+      <Hsp_midline>+T      +FP+ALVVS FN  +T+ LKKG ++RL + GF + D+ +VEVPGAVEIP  A+ LA K +V+ I+ALGAVIRGET+HYDYVC+QVS GCQRV LDYN+PV+FGVLTTEN+ QA  R+GG HGHKG DA DCA++M +I +QL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|654938580|ref|WP_028388819.1|</Hit_id>
+  <Hit_def>6,7-dimethyl-8-ribityllumazine synthase [Legionella fairfieldensis]</Hit_def>
+  <Hit_accession>WP_028388819</Hit_accession>
+  <Hit_len>163</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>204.912</Hsp_bit-score>
+      <Hsp_score>520</Hsp_score>
+      <Hsp_evalue>3.51591e-65</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>154</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>155</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>100</Hsp_identity>
+      <Hsp_positive>120</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>155</Hsp_align-len>
+      <Hsp_qseq>MREIKTIVSDGV-TFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQL</Hsp_qseq>
+      <Hsp_hseq>MKHITAEPVDSVESFPIAIVVSHFNRPVTNELQRGALRELIRRGLSEQDITLVEVPGAVEIPLVVQRLAMQKKVAAIIALGAVIRGETSHYDYVCEQVSQGCQRVALDYNIPVIFGVLTTDDEAQAWERLGGRHGHKGIDAADCAIAMQSILTQI</Hsp_hseq>
+      <Hsp_midline>M+ I     D V +FPIA+VVS FN  +T+ L++GAL  L   G   +DITLVEVPGAVEIP V Q LA ++KV  I+ALGAVIRGETSHYDYVC+QVSQGCQRV LDYNIPVIFGVLTT+++ QA  R+GG HGHKG DA DCA++M+SI  Q+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|1227536850|ref|WP_094091125.1|</Hit_id>
+  <Hit_def>6,7-dimethyl-8-ribityllumazine synthase [Legionella clemsonensis]</Hit_def>
+  <Hit_accession>WP_094091125</Hit_accession>
+  <Hit_len>160</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>201.83</Hsp_bit-score>
+      <Hsp_score>512</Hsp_score>
+      <Hsp_evalue>5.25868e-64</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>155</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>156</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>96</Hsp_identity>
+      <Hsp_positive>123</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>156</Hsp_align-len>
+      <Hsp_qseq>MREIKTIVSDGV-TFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQLQ</Hsp_qseq>
+      <Hsp_hseq>MQLIKINTNETVNSFPVAIVVSRFNEGISKELQRGAVERLQECGVASHDITLIEVPGAVEIPLIAKQVAMSGLVKVIIALGAVIRGDTSHYDYVCEQVSNGCQRIALDHTLPVIFGVLTTENEAQAWDRLGGQHGHKGRDAADCAIEMYQITRQLE</Hsp_hseq>
+      <Hsp_midline>M+ IK   ++ V +FP+A+VVS FNE I+  L++GA++RL E G  S DITL+EVPGAVEIP +A+ +A    V+VI+ALGAVIRG+TSHYDYVC+QVS GCQR+ LD+ +PVIFGVLTTEN+ QA  R+GG HGHKGRDA DCA+ M  I +QL+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|737952408|ref|WP_035916166.1|</Hit_id>
+  <Hit_def>6,7-dimethyl-8-ribityllumazine synthase [Legionella lansingensis]</Hit_def>
+  <Hit_accession>WP_035916166</Hit_accession>
+  <Hit_len>161</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>197.978</Hsp_bit-score>
+      <Hsp_score>502</Hsp_score>
+      <Hsp_evalue>1.90667e-62</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>154</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>155</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>96</Hsp_identity>
+      <Hsp_positive>119</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>156</Hsp_align-len>
+      <Hsp_qseq>MREIKTIVSDGVT--FPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQL</Hsp_qseq>
+      <Hsp_hseq>MKHIK-IESKDITHSFPIGVVVSRFNQDITGELQRGAVERLKVRGISEQDIILVEVPGAIEIPIVTKRMAMSRQVKAIIALGAVIRGETSHYDYVCEQVSNGCQRIALDYNLPVIFGVLTTENETQAWDRLGGSHGHKGADAADCAIEMHQILQSL</Hsp_hseq>
+      <Hsp_midline>M+ IK I S  +T  FPI +VVS FN+ IT  L++GA++RL   G   +DI LVEVPGA+EIP V + +A  ++V+ I+ALGAVIRGETSHYDYVC+QVS GCQR+ LDYN+PVIFGVLTTEN+ QA  R+GG+HGHKG DA DCA+ M  I Q L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|966512010|ref|WP_058528564.1|</Hit_id>
+  <Hit_def>6,7-dimethyl-8-ribityllumazine synthase [Legionella londiniensis]</Hit_def>
+  <Hit_accession>WP_058528564</Hit_accession>
+  <Hit_len>159</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>191.43</Hsp_bit-score>
+      <Hsp_score>485</Hsp_score>
+      <Hsp_evalue>7.85632e-60</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>155</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>156</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>92</Hsp_identity>
+      <Hsp_positive>116</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>156</Hsp_align-len>
+      <Hsp_qseq>MREIKTIVSDGVT-FPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQLQ</Hsp_qseq>
+      <Hsp_hseq>MQYIKGSPRDNYSPFPIAIVVSQFNRPITRELLQGALKELNAKGFTEKDIAVVEVPGAVEIPLTVKKIAKLKKFEIIIALGAVIRGETTHYDYVCQQVSDGCQKVALEFEIPVIFGVLTTENEAQAWDRLGGRHGHKGIDAVDCALNMHEVMQKME</Hsp_hseq>
+      <Hsp_midline>M+ IK    D  + FPIA+VVS FN  IT  L +GAL  L   GF  +DI +VEVPGAVEIP   + +AK +K E+I+ALGAVIRGET+HYDYVC QVS GCQ+V L++ IPVIFGVLTTEN+ QA  R+GG HGHKG DA+DCA++M  + Q+++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|966477580|ref|WP_058508313.1|</Hit_id>
+  <Hit_def>6,7-dimethyl-8-ribityllumazine synthase [Legionella quinlivanii]</Hit_def>
+  <Hit_accession>WP_058508313</Hit_accession>
+  <Hit_len>157</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>181.03</Hsp_bit-score>
+      <Hsp_score>458</Hsp_score>
+      <Hsp_evalue>8.42632e-56</Hsp_evalue>
+      <Hsp_query-from>13</Hsp_query-from>
+      <Hsp_query-to>154</Hsp_query-to>
+      <Hsp_hit-from>15</Hsp_hit-from>
+      <Hsp_hit-to>156</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>82</Hsp_identity>
+      <Hsp_positive>110</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>142</Hsp_align-len>
+      <Hsp_qseq>TFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQL</Hsp_qseq>
+      <Hsp_hseq>SFPVAIITSQFNSDITAALKEGAVDQLRKRGIEDKDILLFDVPGAIEIPLVAQRIASKKMAKAIITLGSVIRGDTSHYDLVCDVVSDGCMRVCLDHSIPVLFGVLTTENNEQAWDRLGGKYGHKGREVADCAVAMHELLTNL</Hsp_hseq>
+      <Hsp_midline>+FP+A++ S FN  IT+ALK+GA+D+L + G + +DI L +VPGA+EIP VAQ +A K+  + I+ LG+VIRG+TSHYD VCD VS GC RV LD++IPV+FGVLTTEN+EQA  R+GG +GHKGR+  DCAV+M  +   L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|966507466|ref|WP_058524112.1|</Hit_id>
+  <Hit_def>6,7-dimethyl-8-ribityllumazine synthase [Legionella birminghamensis]</Hit_def>
+  <Hit_accession>WP_058524112</Hit_accession>
+  <Hit_len>157</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>179.489</Hsp_bit-score>
+      <Hsp_score>454</Hsp_score>
+      <Hsp_evalue>3.38058e-55</Hsp_evalue>
+      <Hsp_query-from>13</Hsp_query-from>
+      <Hsp_query-to>150</Hsp_query-to>
+      <Hsp_hit-from>15</Hsp_hit-from>
+      <Hsp_hit-to>152</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>81</Hsp_identity>
+      <Hsp_positive>107</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>138</Hsp_align-len>
+      <Hsp_qseq>TFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSI</Hsp_qseq>
+      <Hsp_hseq>SFPVAIITSQFNEDVTQALKEGAIDQLRKRGIEEKDILLFDVPGAIEIPLVAQRIASKKMAKAIITLGSVIRGDTSHYDLVCDVVSDGCMRVSLDHSIPVLFGVLTTENHEQAWDRLGGKFGHKGREVADCAVAMHEL</Hsp_hseq>
+      <Hsp_midline>+FP+A++ S FNE +T ALK+GA+D+L + G + +DI L +VPGA+EIP VAQ +A K+  + I+ LG+VIRG+TSHYD VCD VS GC RV LD++IPV+FGVLTTEN EQA  R+GG  GHKGR+  DCAV+M  +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|737936737|ref|WP_035901351.1|</Hit_id>
+  <Hit_def>6,7-dimethyl-8-ribityllumazine synthase [Legionella cherrii]</Hit_def>
+  <Hit_accession>WP_035901351</Hit_accession>
+  <Hit_len>155</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>177.948</Hsp_bit-score>
+      <Hsp_score>450</Hsp_score>
+      <Hsp_evalue>1.2314e-54</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>154</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>155</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>86</Hsp_identity>
+      <Hsp_positive>111</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>154</Hsp_align-len>
+      <Hsp_qseq>EIKTIVSDGV--TFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQL</Hsp_qseq>
+      <Hsp_hseq>QITAISDDSIVSSFPIAIITSVFNRQVTKALQEGAISQLLKRGFNEQDIRLFEVPGAVEIPLVAKRLAMQKSVQAIITLGAVIRGETSHYDLVCHMVSQGCLQVSLEYNIPVLFGVLTTDNEEQAWDRLGGKAGHKGVDVANAAISMHQTLGQL</Hsp_hseq>
+      <Hsp_midline>+I  I  D +  +FPIA++ S FN  +T AL++GA+ +L + GF  +DI L EVPGAVEIP VA+ LA ++ V+ I+ LGAVIRGETSHYD VC  VSQGC +V L+YNIPV+FGVLTT+N+EQA  R+GG  GHKG D  + A+SM     QL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|1279530632|ref|WP_100114579.1|</Hit_id>
+  <Hit_def>6,7-dimethyl-8-ribityllumazine synthase [Legionella endosymbiont of Polyplax serrata]</Hit_def>
+  <Hit_accession>WP_100114579</Hit_accession>
+  <Hit_len>155</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>177.563</Hsp_bit-score>
+      <Hsp_score>449</Hsp_score>
+      <Hsp_evalue>1.97093e-54</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>150</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>150</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>81</Hsp_identity>
+      <Hsp_positive>110</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>150</Hsp_align-len>
+      <Hsp_qseq>MREIKTIVSDGVTFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSI</Hsp_qseq>
+      <Hsp_hseq>MRNEKVNISLIKSFPVGVVVSCFNYKITSLLKNSTLSYMDELGFFKKDIILIEVPGAIEIPLIVKKLAISNKVKVIITLGSVIKGSTDHYNYVCQQVSYGCQKISITFNIPVIFGILTTDNEKQALERIDGKLGYKGREVVDCALSMYNI</Hsp_hseq>
+      <Hsp_midline>MR  K  +S   +FP+ +VVS FN  ITS LK   L  + ELGF  +DI L+EVPGA+EIP + + LA   KV+VI+ LG+VI+G T HY+YVC QVS GCQ++ + +NIPVIFG+LTT+N++QAL R+ G  G+KGR+ +DCA+SM +I</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|966415646|ref|WP_058458931.1|</Hit_id>
+  <Hit_def>6,7-dimethyl-8-ribityllumazine synthase [Fluoribacter bozemanae]</Hit_def>
+  <Hit_accession>WP_058458931</Hit_accession>
+  <Hit_len>156</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>176.407</Hsp_bit-score>
+      <Hsp_score>446</Hsp_score>
+      <Hsp_evalue>5.26923e-54</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>154</Hsp_query-to>
+      <Hsp_hit-from>6</Hsp_hit-from>
+      <Hsp_hit-to>156</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>86</Hsp_identity>
+      <Hsp_positive>113</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>154</Hsp_align-len>
+      <Hsp_qseq>MREIKTIVSDGVTFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQL</Hsp_qseq>
+      <Hsp_hseq>LAEDTSIVS---SFPIAIITSVFNRDVTKALQEGAISQLLKRGFNEKDIKSFEVPGAVEIPLVAKRLAMQKAVQSIISLGAVIRGETSHYDLVCDMVSQGCLQVSLEYNIPVLFGVLTTDNEEQAWDRLGGKAGHKGVDVANAAISLHQTLSQL</Hsp_hseq>
+      <Hsp_midline>+ E  +IVS   +FPIA++ S FN  +T AL++GA+ +L + GF  +DI   EVPGAVEIP VA+ LA ++ V+ I++LGAVIRGETSHYD VCD VSQGC +V L+YNIPV+FGVLTT+N+EQA  R+GG  GHKG D  + A+S+     QL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|966494799|ref|WP_058511587.1|</Hit_id>
+  <Hit_def>6,7-dimethyl-8-ribityllumazine synthase [Legionella steelei]</Hit_def>
+  <Hit_accession>WP_058511587</Hit_accession>
+  <Hit_len>155</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>175.252</Hsp_bit-score>
+      <Hsp_score>443</Hsp_score>
+      <Hsp_evalue>1.42708e-53</Hsp_evalue>
+      <Hsp_query-from>6</Hsp_query-from>
+      <Hsp_query-to>154</Hsp_query-to>
+      <Hsp_hit-from>10</Hsp_hit-from>
+      <Hsp_hit-to>155</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>84</Hsp_identity>
+      <Hsp_positive>109</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>149</Hsp_align-len>
+      <Hsp_qseq>TIVSDGVTFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQL</Hsp_qseq>
+      <Hsp_hseq>TIVS---SFPIAIITSIFNRQVTKALQEGAISQLLKRGFNGHDINSFEVPGAVEIPLITKRIAMQKKVQSIITLGAVIRGETSHYDLVCNMVSQGCLQVSLEYNIPVIFGVLTTDNEEQAWDRLGGKGGHKGVDVANAAIAMHQTLSQL</Hsp_hseq>
+      <Hsp_midline>TIVS   +FPIA++ S FN  +T AL++GA+ +L + GF   DI   EVPGAVEIP + + +A ++KV+ I+ LGAVIRGETSHYD VC+ VSQGC +V L+YNIPVIFGVLTT+N+EQA  R+GG  GHKG D  + A++M     QL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|498338194|ref|WP_010652350.1|</Hit_id>
+  <Hit_def>6,7-dimethyl-8-ribityllumazine synthase [Fluoribacter dumoffii]</Hit_def>
+  <Hit_accession>WP_010652350</Hit_accession>
+  <Hit_len>156</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>175.252</Hsp_bit-score>
+      <Hsp_score>443</Hsp_score>
+      <Hsp_evalue>1.81331e-53</Hsp_evalue>
+      <Hsp_query-from>13</Hsp_query-from>
+      <Hsp_query-to>154</Hsp_query-to>
+      <Hsp_hit-from>15</Hsp_hit-from>
+      <Hsp_hit-to>156</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>82</Hsp_identity>
+      <Hsp_positive>106</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>142</Hsp_align-len>
+      <Hsp_qseq>TFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQL</Hsp_qseq>
+      <Hsp_hseq>SFPIAIITSVFNRQVTKALQEGAIAQLLKRGFNESDIHSYEVPGAVEIPLIAKRLAMQKKVHSIITLGAVIRGETSHYDLVCNIVSQGCLQVALEYNIPVLFGVLTTDNEEQAWDRLGGKAGHKGIDVANAAISMQQTLSQL</Hsp_hseq>
+      <Hsp_midline>+FPIA++ S FN  +T AL++GA+ +L + GF   DI   EVPGAVEIP +A+ LA ++KV  I+ LGAVIRGETSHYD VC+ VSQGC +V L+YNIPV+FGVLTT+N+EQA  R+GG  GHKG D  + A+SM+    QL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|966437409|ref|WP_058477777.1|</Hit_id>
+  <Hit_def>6,7-dimethyl-8-ribityllumazine synthase [Legionella steigerwaltii]</Hit_def>
+  <Hit_accession>WP_058477777</Hit_accession>
+  <Hit_len>155</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>174.481</Hsp_bit-score>
+      <Hsp_score>441</Hsp_score>
+      <Hsp_evalue>3.241e-53</Hsp_evalue>
+      <Hsp_query-from>6</Hsp_query-from>
+      <Hsp_query-to>154</Hsp_query-to>
+      <Hsp_hit-from>10</Hsp_hit-from>
+      <Hsp_hit-to>155</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>85</Hsp_identity>
+      <Hsp_positive>109</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>149</Hsp_align-len>
+      <Hsp_qseq>TIVSDGVTFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQL</Hsp_qseq>
+      <Hsp_hseq>TIVS---SFPIAIITSVFNRQVTKALQEGAIAQLLKRGFNERDIQSFEVPGAVEIPLVAKRLAMQKSVQSIITLGAVIRGETSHYDLVCNMVSQGCLQVSLEYNIPVLFGVLTTDNEEQAWDRLGGKGGHKGVDVANAAISLHQTLSQL</Hsp_hseq>
+      <Hsp_midline>TIVS   +FPIA++ S FN  +T AL++GA+ +L + GF   DI   EVPGAVEIP VA+ LA ++ V+ I+ LGAVIRGETSHYD VC+ VSQGC +V L+YNIPV+FGVLTT+N+EQA  R+GG  GHKG D  + A+S+     QL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|493927856|ref|WP_006872583.1|</Hit_id>
+  <Hit_def>6,7-dimethyl-8-ribityllumazine synthase [Legionella drancourtii]</Hit_def>
+  <Hit_accession>WP_006872583</Hit_accession>
+  <Hit_len>159</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>173.326</Hsp_bit-score>
+      <Hsp_score>438</Hsp_score>
+      <Hsp_evalue>9.73499e-53</Hsp_evalue>
+      <Hsp_query-from>13</Hsp_query-from>
+      <Hsp_query-to>154</Hsp_query-to>
+      <Hsp_hit-from>16</Hsp_hit-from>
+      <Hsp_hit-to>157</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>79</Hsp_identity>
+      <Hsp_positive>104</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>142</Hsp_align-len>
+      <Hsp_qseq>TFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQL</Hsp_qseq>
+      <Hsp_hseq>SFPVAIIVGVFNREITQTLQEGTIAQLVARGFNRQDISVYEVPGAVEIPLVAKRLAMTGSAKSVITLGSVIRGDTSHYDLVCDLVSQGCMQVSLEYNIPVIFGVLTTENEEQAWDRLGGKHGHKGVEVANAAISMHQLLNQL</Hsp_hseq>
+      <Hsp_midline>+FP+A++V  FN  IT  L++G + +L   GF  +DI++ EVPGAVEIP VA+ LA     + ++ LG+VIRG+TSHYD VCD VSQGC +V L+YNIPVIFGVLTTEN+EQA  R+GG HGHKG +  + A+SM  +  QL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|518062653|ref|WP_019232861.1|</Hit_id>
+  <Hit_def>6,7-dimethyl-8-ribityllumazine synthase [Legionella anisa]</Hit_def>
+  <Hit_accession>WP_019232861</Hit_accession>
+  <Hit_len>156</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>173.326</Hsp_bit-score>
+      <Hsp_score>438</Hsp_score>
+      <Hsp_evalue>9.98542e-53</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>154</Hsp_query-to>
+      <Hsp_hit-from>8</Hsp_hit-from>
+      <Hsp_hit-to>156</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>85</Hsp_identity>
+      <Hsp_positive>110</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>152</Hsp_align-len>
+      <Hsp_qseq>EIKTIVSDGVTFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQL</Hsp_qseq>
+      <Hsp_hseq>EDTSIVS---SFPIAIITSVFNRQVTKALQEGAVSQLLKRGFNERDIKSFDVPGAVEIPLVAKRLAMQRTVQSIITLGAVIRGETSHYDLVCDMVSQGCLQVSLEYNIPVLFGVLTTDNEEQAWDRLGGKGGHKGIDVANAAISLHQTLSQL</Hsp_hseq>
+      <Hsp_midline>E  +IVS   +FPIA++ S FN  +T AL++GA+ +L + GF   DI   +VPGAVEIP VA+ LA ++ V+ I+ LGAVIRGETSHYD VCD VSQGC +V L+YNIPV+FGVLTT+N+EQA  R+GG  GHKG D  + A+S+     QL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|966499860|ref|WP_058516533.1|</Hit_id>
+  <Hit_def>6,7-dimethyl-8-ribityllumazine synthase [Legionella parisiensis]</Hit_def>
+  <Hit_accession>WP_058516533</Hit_accession>
+  <Hit_len>156</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>173.326</Hsp_bit-score>
+      <Hsp_score>438</Hsp_score>
+      <Hsp_evalue>1.03184e-52</Hsp_evalue>
+      <Hsp_query-from>13</Hsp_query-from>
+      <Hsp_query-to>154</Hsp_query-to>
+      <Hsp_hit-from>15</Hsp_hit-from>
+      <Hsp_hit-to>156</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>81</Hsp_identity>
+      <Hsp_positive>105</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>142</Hsp_align-len>
+      <Hsp_qseq>TFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQL</Hsp_qseq>
+      <Hsp_hseq>SFPIAIITSVFNQDVTKALQEGAISQLLKRGFNESDIKSFEVPGAVEIPLVAKRLAMQKAVQSIITLGAVIRGETSHYDLVCHMVSQGCLQVSLEYNIPVLFGVLTTDNEEQAWDRLGGKAGHKGVDVANAAISLHHTLSQL</Hsp_hseq>
+      <Hsp_midline>+FPIA++ S FN+ +T AL++GA+ +L + GF   DI   EVPGAVEIP VA+ LA ++ V+ I+ LGAVIRGETSHYD VC  VSQGC +V L+YNIPV+FGVLTT+N+EQA  R+GG  GHKG D  + A+S+     QL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|499260175|ref|WP_010957715.1|</Hit_id>
+  <Hit_def>6,7-dimethyl-8-ribityllumazine synthase [Coxiella burnetii] &gt;gi|29653986|ref|NP_819678.1| 6,7-dimethyl-8-ribityllumazine synthase [Coxiella burnetii RSA 493]</Hit_def>
+  <Hit_accession>WP_010957715</Hit_accession>
+  <Hit_len>151</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>167.162</Hsp_bit-score>
+      <Hsp_score>422</Hsp_score>
+      <Hsp_evalue>2.3531e-50</Hsp_evalue>
+      <Hsp_query-from>13</Hsp_query-from>
+      <Hsp_query-to>155</Hsp_query-to>
+      <Hsp_hit-from>5</Hsp_hit-from>
+      <Hsp_hit-to>147</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>79</Hsp_identity>
+      <Hsp_positive>101</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>143</Hsp_align-len>
+      <Hsp_qseq>TFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQLQ</Hsp_qseq>
+      <Hsp_hseq>SFKLAIVVSQFNRAVTEKLLNGVLQRLTELGVQANQIKTVWVPGAVEIPLLAKRLAKSKHYQAVVCLGAVIRGETDHYNYVCQQVSFGCQQVALEYEVPIIFGVLTTTTKEQAFARAGGERGNKGADWADAAVSMIKLMKEIE</Hsp_hseq>
+      <Hsp_midline>+F +A+VVS FN  +T  L  G L RLTELG ++  I  V VPGAVEIP +A+ LAK +  + +V LGAVIRGET HY+YVC QVS GCQ+V L+Y +P+IFGVLTT   EQA AR GG  G+KG D  D AVSM  + ++++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|966517906|ref|WP_058534400.1|</Hit_id>
+  <Hit_def>6,7-dimethyl-8-ribityllumazine synthase [Legionella saoudiensis]</Hit_def>
+  <Hit_accession>WP_058534400</Hit_accession>
+  <Hit_len>159</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>166.007</Hsp_bit-score>
+      <Hsp_score>419</Hsp_score>
+      <Hsp_evalue>6.86634e-50</Hsp_evalue>
+      <Hsp_query-from>13</Hsp_query-from>
+      <Hsp_query-to>154</Hsp_query-to>
+      <Hsp_hit-from>16</Hsp_hit-from>
+      <Hsp_hit-to>157</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>75</Hsp_identity>
+      <Hsp_positive>102</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>142</Hsp_align-len>
+      <Hsp_qseq>TFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQL</Hsp_qseq>
+      <Hsp_hseq>SFPIAIIVGIFNRHITQNLQDGVITQLQKRGIKKEHISVYEVPGAIEIPLIAKRLAMSNSVQSIITLGSVIRGDTSHYDLVCTMASEGCLKVSLKYNIPIIFGLLTTENEEQAWDRLGGKHGHKGIELANAAISMQQLLNQL</Hsp_hseq>
+      <Hsp_midline>+FPIA++V  FN  IT  L+ G + +L + G K E I++ EVPGA+EIP +A+ LA    V+ I+ LG+VIRG+TSHYD VC   S+GC +V L YNIP+IFG+LTTEN+EQA  R+GG HGHKG +  + A+SM+ +  QL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|492179517|ref|WP_005771892.1|</Hit_id>
+  <Hit_def>6,7-dimethyl-8-ribityllumazine synthase [Coxiella burnetii]</Hit_def>
+  <Hit_accession>WP_005771892</Hit_accession>
+  <Hit_len>151</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>165.236</Hsp_bit-score>
+      <Hsp_score>417</Hsp_score>
+      <Hsp_evalue>1.1359e-49</Hsp_evalue>
+      <Hsp_query-from>13</Hsp_query-from>
+      <Hsp_query-to>155</Hsp_query-to>
+      <Hsp_hit-from>5</Hsp_hit-from>
+      <Hsp_hit-to>147</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>79</Hsp_identity>
+      <Hsp_positive>100</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>143</Hsp_align-len>
+      <Hsp_qseq>TFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQLQ</Hsp_qseq>
+      <Hsp_hseq>SFKLAIVVSQFNRAVTEKLLNGVLQRLTELDVQANQIKTVWVPGAVEIPLLAKRLAKSKHYQAIVCLGAVIRGETDHYNYVCQQVSYGCQQVALEYEVPIIFGVLTTTTKEQAFARAGGERGNKGADWADAAVSMIKLMKEIE</Hsp_hseq>
+      <Hsp_midline>+F +A+VVS FN  +T  L  G L RLTEL  ++  I  V VPGAVEIP +A+ LAK +  + IV LGAVIRGET HY+YVC QVS GCQ+V L+Y +P+IFGVLTT   EQA AR GG  G+KG D  D AVSM  + ++++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|755598411|ref|WP_042526015.1|</Hit_id>
+  <Hit_def>6,7-dimethyl-8-ribityllumazine synthase [Coxiella burnetii]</Hit_def>
+  <Hit_accession>WP_042526015</Hit_accession>
+  <Hit_len>151</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>164.466</Hsp_bit-score>
+      <Hsp_score>415</Hsp_score>
+      <Hsp_evalue>2.02749e-49</Hsp_evalue>
+      <Hsp_query-from>13</Hsp_query-from>
+      <Hsp_query-to>155</Hsp_query-to>
+      <Hsp_hit-from>5</Hsp_hit-from>
+      <Hsp_hit-to>147</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>78</Hsp_identity>
+      <Hsp_positive>100</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>143</Hsp_align-len>
+      <Hsp_qseq>TFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQLQ</Hsp_qseq>
+      <Hsp_hseq>SFKLAIVVSQFNRAVTEKLLNGVLQRLTELXVQANQIKTVWVPGAVEIPLLAKRLAKSKHYQALVCLGAVIRGETDHYNYVCQQVSXGCQQVALEYEVPIIFGVLTTTTKEQAFARAGGERGNKGADWADAAVSMIKLMKEIE</Hsp_hseq>
+      <Hsp_midline>+F +A+VVS FN  +T  L  G L RLTEL  ++  I  V VPGAVEIP +A+ LAK +  + +V LGAVIRGET HY+YVC QVS GCQ+V L+Y +P+IFGVLTT   EQA AR GG  G+KG D  D AVSM  + ++++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|500789825|ref|WP_011996677.1|</Hit_id>
+  <Hit_def>6,7-dimethyl-8-ribityllumazine synthase [Coxiella burnetii]</Hit_def>
+  <Hit_accession>WP_011996677</Hit_accession>
+  <Hit_len>151</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>164.466</Hsp_bit-score>
+      <Hsp_score>415</Hsp_score>
+      <Hsp_evalue>2.66467e-49</Hsp_evalue>
+      <Hsp_query-from>13</Hsp_query-from>
+      <Hsp_query-to>155</Hsp_query-to>
+      <Hsp_hit-from>5</Hsp_hit-from>
+      <Hsp_hit-to>147</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>79</Hsp_identity>
+      <Hsp_positive>100</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>143</Hsp_align-len>
+      <Hsp_qseq>TFPIALVVSTFNELITSALKKGALDRLTELGFKSEDITLVEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQLQ</Hsp_qseq>
+      <Hsp_hseq>SFKLAIVVSQFNRAVTEKLLNGVLQRLTELDVQANQIKTVWVPGAVEIPLLAKRLAKSKHYQAIVCLGAVIRGETDHYNYVCQQVSFGCQQVALEYEVPIIFGVLTTTTKEQAFARAGGERGNKGADWADAAVSMIKLMKEIE</Hsp_hseq>
+      <Hsp_midline>+F +A+VVS FN  +T  L  G L RLTEL  ++  I  V VPGAVEIP +A+ LAK +  + IV LGAVIRGET HY+YVC QVS GCQ+V L+Y +P+IFGVLTT   EQA AR GG  G+KG D  D AVSM  + ++++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|517111564|ref|WP_018300382.1|</Hit_id>
+  <Hit_def>6,7-dimethyl-8-ribityllumazine synthase [Fangia hongkongensis]</Hit_def>
+  <Hit_accession>WP_018300382</Hit_accession>
+  <Hit_len>146</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>163.31</Hsp_bit-score>
+      <Hsp_score>412</Hsp_score>
+      <Hsp_evalue>4.89637e-49</Hsp_evalue>
+      <Hsp_query-from>16</Hsp_query-from>
+      <Hsp_query-to>155</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>141</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>83</Hsp_identity>
+      <Hsp_positive>105</Hsp_positive>
+      <Hsp_gaps>8</Hsp_gaps>
+      <Hsp_align-len>143</Hsp_align-len>
+      <Hsp_qseq>IALVVSTFNELITSALKKGALDRLTELGFKSEDITL---VEVPGAVEIPFVAQLLAKKQKVEVIVALGAVIRGETSHYDYVCDQVSQGCQRVMLDYNIPVIFGVLTTENDEQALARVGGTHGHKGRDAIDCAVSMRSIKQQLQ</Hsp_qseq>
+      <Hsp_hseq>IAIAVSEFNDLITSKLLEGALEEA-----KMQNIEMPFVVKVPGAVELPFAAKQLAKTDKYDAIVLLGCVIRGETDHYDYVCDQVSQGTQLVMMEYDLPVIFGVLTTNNKEQALARVGGAKGHKGKYALQAALDMAKLQRSLE</Hsp_hseq>
+      <Hsp_midline>IA+ VS FN+LITS L +GAL+       K ++I +   V+VPGAVE+PF A+ LAK  K + IV LG VIRGET HYDYVCDQVSQG Q VM++Y++PVIFGVLTT N EQALARVGG  GHKG+ A+  A+ M  +++ L+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>100270495</Statistics_db-num>
+      <Statistics_db-len>38159479557</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+
