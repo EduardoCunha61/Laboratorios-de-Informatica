@@ -37,15 +37,15 @@
 					</li>
 
 					<li class="nav-item active">
-						<a class="nav-link" href="./relatorio">Relatório &nbsp &nbsp &nbsp</a>
-					</li>
-
-					<li class="nav-item active">
 						<a class="nav-link" href="./tabela.html">Tabelas Resumo &nbsp &nbsp &nbsp</a>
 					</li>
 					
 					<li class="nav-item active">
 						<a class="nav-link" href="https://github.com/Hodor61/Laboratorios-de-Informatica/tree/master/scripts">Scripts &nbsp &nbsp &nbsp</a>
+					</li>
+
+					<li class="nav-item active">
+						<a class="nav-link" href="./Relatorio_LB_grupo_6.pdf">Relatório &nbsp &nbsp &nbsp</a>
 					</li>
 
 				</ul>
@@ -56,7 +56,6 @@
 	<br>
 	<br>
 	<br>
-
 	<center><h3>Análise de homologias por BLAST</h3></center>
 	<p> &nbsp &nbsp &nbsp Neste ponto, o objetivo era automatizar o processo de análise do Blast das proteínas, recorrendo à ferramenta Blast presente no package Biopython. Esta ferramenta permitiu obter os resultados deste processo em formatos XML e texto. Uma homologia realmente sólida requer especial atenção ao comportamento de três fatores aquando a seleção de alinhamentos: o e-value, o query cover e o ident. O e-value deverá ser o mais próximo possível de zero, enquanto que ambos o query cover e o ident deverão tender para 100%. Uma análise do ficheiro resultado do Blast, em XML, permite, entre outros, selecionar os alinhamentos com um menor e-value de uma forma automatizada. Contudo, não é possível fazer o mesmo com o ficheiro de texto usando python, apesar de conter os valores e-valuee ident de cada alinhamento. Estas restrições não permitem automatizar uma análise dos resultados do Blast usando os três parâmetros necessários para uma homologia sólida.<br>
 	&nbsp &nbsp &nbsp Assim, só foi considerado o ficheiro XML, que contém apenas o e-value dos alinhamentos, para fazer a análise com recurso ao Biopython. Os alinhamentos com um e-value menor que 0,01 foram retirados de cada ficheiro resultado em XML,guardando a sequência alinhada, o score e o e-value num outro ficheiro. Uma análise manual deste ficheiro com os alinhamentos retirou os cinco resultados com o menor e-value que correspondessem a espécies de Legionella diferentes da estudada. Contudo, como o grau de confiança nesta análise é baixo, pois só teve em consideração os valores de e-value, estes resultados foram comparados com os resultados do Blast usando o site do NCBI, sendo que só se detetou uma pequena diferença nos resultados da proteína codificada pelo gene RibE. Por fim, através de pesquisas no site da Uniprot foram retiradas as funções das proteínas selecionadas anteriormente, de forma a comparar a sua função com a das proteínas estudadas. Uma vez que as sequências têm uma grande homologia, é expectável que as suas funções sejam iguais ou bastante semelhantes. </p>
